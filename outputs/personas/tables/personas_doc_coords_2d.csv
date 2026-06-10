@@ -1,0 +1,156 @@
+﻿doc_id,persona_id,persona_nome_auto,n_words_persona_text,projeto,pais,marca_foco,publico,tipo_sessao,x,y
+doc_b53730e47cc798ef,persona_02,Compradora Social e Presenteadora,15816,biome,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.13287343870411705,-0.3063017191997112
+doc_9ed820073ce06c76,persona_00,Cuidadora Consciente,15130,biome,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.17280622707323562,-0.0456531686171885
+doc_a11e5233b2bda4e2,persona_00,Cuidadora Consciente,11706,biome,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.2138029185207922,-0.03746722977702412
+doc_813751e4679e395b,persona_02,Compradora Social e Presenteadora,11412,biome,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.15440438848082963,-0.18237980137057455
+doc_e5652afcdfc168fe,persona_00,Cuidadora Consciente,9263,rosacea,argentina,natura,nao_inferido,nao_inferido,0.47684937151675805,0.35823397508574406
+doc_96f34760018e32cc,persona_00,Cuidadora Consciente,8764,rosacea,argentina,nao_inferido,nao_inferido,nao_inferido,0.29250593799826907,0.5198839219637037
+doc_b6665005023d6217,persona_00,Cuidadora Consciente,8888,rosacea,argentina,natura,nao_inferido,nao_inferido,0.40103734299225885,0.40310788351095084
+doc_aac2e8123c96e254,persona_00,Cuidadora Consciente,7205,rosacea,argentina,natura,nao_inferido,nao_inferido,0.5104156095627999,0.5083567405545489
+doc_31b742a33ba14cee,persona_00,Cuidadora Consciente,7956,rosacea,argentina,nao_inferido,nao_inferido,nao_inferido,0.4451139564911009,0.4913911000758726
+doc_1029b8f4fef9beca,persona_00,Cuidadora Consciente,8260,rosacea,argentina,nao_inferido,nao_inferido,nao_inferido,0.42394493904933195,0.44951990183069906
+doc_6da518659b1ee271,persona_00,Cuidadora Consciente,9896,rosacea,argentina,nao_inferido,nao_inferido,nao_inferido,0.2987536509619816,0.5635491590208702
+doc_ace5895fe185da65,persona_00,Cuidadora Consciente,14184,rosacea,brasil,natura,nao_inferido,nao_inferido,0.5527499304485558,-0.001916816568735046
+doc_d3a4fcca193fb469,persona_00,Cuidadora Consciente,10934,rosacea,brasil,nao_inferido,nao_inferido,nao_inferido,0.3789633594319708,0.17528220336811332
+doc_20c080a645217030,persona_00,Cuidadora Consciente,14606,rosacea,brasil,natura,nao_inferido,nao_inferido,0.5979275126480879,0.07168712845089315
+doc_8155ca024e437eda,persona_00,Cuidadora Consciente,14760,rosacea,brasil,nao_inferido,nao_inferido,nao_inferido,0.3695929310235499,0.16040264131924
+doc_8f0f9dbe32c1bce3,persona_00,Cuidadora Consciente,16473,rosacea,brasil,natura,nao_inferido,nao_inferido,0.5542640297442272,0.08854496151520988
+doc_2da4b14181ace08e,persona_00,Cuidadora Consciente,14346,rosacea,brasil,nao_inferido,nao_inferido,nao_inferido,0.5044010007086449,0.08599209457221893
+doc_d61537ccd540a8ec,persona_00,Cuidadora Consciente,12386,rosacea,brasil,nao_inferido,nao_inferido,nao_inferido,0.6176169786407996,-0.067381731416202
+doc_c81de68b7ac9189d,persona_00,Cuidadora Consciente,16065,rosacea,brasil,natura,nao_inferido,nao_inferido,0.5032160255731594,0.3479683938282727
+doc_9ce05b13f8828060,persona_00,Cuidadora Consciente,14166,rosacea,brasil,nao_inferido,nao_inferido,nao_inferido,0.5620084531577413,0.16659060276683058
+doc_363006063b67a33f,persona_00,Cuidadora Consciente,12196,rosacea,brasil,nao_inferido,nao_inferido,nao_inferido,0.3863530111229238,-0.018632170990400224
+doc_e64af23fbf476840,persona_00,Cuidadora Consciente,16558,rosacea,mexico,nao_inferido,nao_inferido,nao_inferido,0.4889913988373314,0.3933421418137538
+doc_304cab7668293378,persona_00,Cuidadora Consciente,7518,rosacea,mexico,nao_inferido,nao_inferido,nao_inferido,0.41540543271083097,0.44761363729597975
+doc_d2d8ffad5d07749d,persona_00,Cuidadora Consciente,11509,rosacea,mexico,concorrencia,nao_inferido,nao_inferido,0.5124804704241499,0.38904582278548194
+doc_39321562bc6f4763,persona_00,Cuidadora Consciente,9172,rosacea,mexico,concorrencia,nao_inferido,nao_inferido,0.507294856527176,0.618132699385329
+doc_25b8560e3c990709,persona_00,Cuidadora Consciente,10323,rosacea,mexico,concorrencia,nao_inferido,nao_inferido,0.5491369958876696,0.23514771741574667
+doc_97de55a65c6e2d51,persona_00,Cuidadora Consciente,11249,rosacea,mexico,nao_inferido,nao_inferido,nao_inferido,0.40213597713177146,0.3824715425635687
+doc_b5d06e16e286306b,persona_01,Comparadora Omnicanal,5295,3cs_perfumes,nao_inferido,nao_inferido,nao_inferido,entrevista_em_profundidade,-0.4912826667863743,0.4572544527107464
+doc_9e6379543f294d71,persona_01,Comparadora Omnicanal,6656,3cs_perfumes,nao_inferido,nao_inferido,nao_inferido,entrevista_em_profundidade,-0.31891778848691016,0.6471969336709559
+doc_33640fb8f77ec4a8,persona_01,Comparadora Omnicanal,5447,3cs_perfumes,nao_inferido,nao_inferido,nao_inferido,entrevista_em_profundidade,-0.3937370762821768,0.6214071853073627
+doc_1d7aeba5c3deb241,persona_01,Comparadora Omnicanal,4317,3cs_perfumes,nao_inferido,nao_inferido,nao_inferido,entrevista_em_profundidade,-0.264417328660809,0.2904652664821884
+doc_ab0b946958f4f005,persona_01,Comparadora Omnicanal,3509,3cs_perfumes,nao_inferido,nao_inferido,nao_inferido,entrevista_em_profundidade,-0.3198563056179499,0.6364309462718708
+doc_eeb118edb6d745e0,persona_01,Comparadora Omnicanal,5122,3cs_perfumes,nao_inferido,nao_inferido,nao_inferido,entrevista_em_profundidade,-0.3385016018600114,0.6540162394158996
+doc_5054173bba881d3a,persona_02,Compradora Social e Presenteadora,199,3cs_perfumes,nao_inferido,nao_inferido,nao_inferido,entrevista_em_profundidade,0.07866431985813875,-0.2648661519085105
+doc_761f127ebf5926ab,persona_01,Comparadora Omnicanal,693,3cs_perfumes,nao_inferido,nao_inferido,nao_inferido,entrevista_em_profundidade,-0.13706326059019058,0.10144974224722622
+doc_a998bd9e2abe8bd5,persona_02,Compradora Social e Presenteadora,130,3cs_perfumes,nao_inferido,nao_inferido,nao_inferido,entrevista_em_profundidade,0.04855170934557941,-0.1162105893882686
+doc_57600d8711fbb9d4,persona_01,Comparadora Omnicanal,1864,3cs_perfumes,nao_inferido,nao_inferido,nao_inferido,entrevista_em_profundidade,-0.2731918758407891,0.31742367028340296
+doc_3662c092fa45c669,persona_01,Comparadora Omnicanal,3729,3cs_perfumes,nao_inferido,nao_inferido,nao_inferido,entrevista_em_profundidade,-0.5162040574012169,0.47123446390591867
+doc_31188a538d1b01b5,persona_01,Comparadora Omnicanal,4291,3cs_perfumes,nao_inferido,nao_inferido,nao_inferido,entrevista_em_profundidade,-0.3341870747590999,0.49283573081484283
+doc_7c1dc7dcc6ddc2d7,persona_01,Comparadora Omnicanal,7294,3cs_perfumes,nao_inferido,nao_inferido,nao_inferido,entrevista_em_profundidade,-0.44460172817129523,0.5201671028748552
+doc_e88651825b162294,persona_01,Comparadora Omnicanal,3659,3cs_perfumes,nao_inferido,nao_inferido,nao_inferido,entrevista_em_profundidade,-0.1516361227974854,0.5745486039908541
+doc_a0527957f9693152,persona_01,Comparadora Omnicanal,2645,3cs_perfumes,nao_inferido,nao_inferido,nao_inferido,entrevista_em_profundidade,-0.39752203684398485,0.5328379712907421
+doc_fcc334ae6da3d7f2,persona_02,Compradora Social e Presenteadora,1442,3cs_perfumes,nao_inferido,nao_inferido,nao_inferido,entrevista_em_profundidade,-0.17964562483909893,-0.044052048753360135
+doc_362e84f5248b2753,persona_02,Compradora Social e Presenteadora,235,3cs_perfumes,nao_inferido,nao_inferido,lideres,entrevista_em_profundidade,-0.003921222673089133,-0.24285671785041893
+doc_ca13ed7a8ce3eb34,persona_01,Comparadora Omnicanal,4624,3cs_perfumes,nao_inferido,nao_inferido,lideres,entrevista_em_profundidade,-0.15574597696110096,0.15671643770456226
+doc_2f47184626ff09c1,persona_00,Cuidadora Consciente,7103,anima,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.3498303099972153,-0.02359711791054325
+doc_d7948b6302ad2fee,persona_00,Cuidadora Consciente,7547,anima,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.2950317721062304,0.05602303253754436
+doc_ac743f4f09e1e58c,persona_00,Cuidadora Consciente,8162,anima,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.15516913523922,-0.03562936357981181
+doc_bd7e79d2d8b662f0,persona_00,Cuidadora Consciente,8010,anima,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.231361062097435,-0.01691860729649023
+doc_295321b3ea85e862,persona_00,Cuidadora Consciente,7094,anima,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.1982687713361593,0.05654210090865278
+doc_b6fd5d628bb2710e,persona_00,Cuidadora Consciente,10362,anima,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.41621405325473304,-0.19132855488204395
+doc_74ca043fafaaea8d,persona_00,Cuidadora Consciente,4865,anima,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.3056538722334029,-0.0715759691924469
+doc_2ea20bb0263aff60,persona_00,Cuidadora Consciente,6290,anima,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.16706575772025206,-0.20389060916200824
+doc_bc29e08f3450ea98,persona_00,Cuidadora Consciente,15182,radiosa,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.4813625643860791,-0.12446466018338777
+doc_a1d2b9d6eaf7c8a9,persona_00,Cuidadora Consciente,12375,radiosa,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.3886328563198112,-0.07328048470398474
+doc_c3440e03873d8788,persona_00,Cuidadora Consciente,11855,radiosa,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.3952013826844257,-0.0755090180328094
+doc_ecbea0911b71e6fa,persona_00,Cuidadora Consciente,8880,radiosa,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.48260893962085794,0.016970046941370207
+doc_a0b281c2785ae1ed,persona_00,Cuidadora Consciente,11832,radiosa,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.41963031901907205,-0.15630305478078763
+doc_e668ad5d413dd19f,persona_00,Cuidadora Consciente,13422,radiosa,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.38904757893207886,-0.04178838206516561
+doc_3d71a73387cbd4a7,persona_00,Cuidadora Consciente,10551,radiosa,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.28161783501394466,0.0903699434212178
+doc_b71f944ee9bec4b0,persona_00,Cuidadora Consciente,9550,radiosa,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.3148449017159319,-0.0937072933606316
+doc_d42528cd9f4f9278,persona_00,Cuidadora Consciente,11069,gaia_ii,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.48080481258325813,-0.19639617641337404
+doc_d26ac17df9e509e7,persona_00,Cuidadora Consciente,11737,gaia_ii,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.36255617814373586,-0.20470921657148758
+doc_6446f54127e74c2d,persona_00,Cuidadora Consciente,9331,gaia_ii,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.3561526045177128,-0.35228931560385357
+doc_c1b714ce1513e838,persona_00,Cuidadora Consciente,9356,gaia_ii,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.3604940425495282,-0.36406310834465944
+doc_90e2fc7494d27bd2,persona_00,Cuidadora Consciente,12536,gaia_ii,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.4368522883098981,-0.17724903244768053
+doc_40a5bd913d6434d3,persona_00,Cuidadora Consciente,6582,gaia_ii,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.5138267582277198,-0.15725726235779075
+doc_e6f876a11a7cffdd,persona_00,Cuidadora Consciente,9572,gaia_ii,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.4901624299017465,-0.345243484162802
+doc_1cecf4bbb8f06cf1,persona_00,Cuidadora Consciente,6448,gaia_ii,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.34361151324329064,-0.23970124821256927
+doc_474985d7ea9b5b8b,persona_02,Compradora Social e Presenteadora,9320,bem_maes,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.09604392603456713,-0.08383553111162342
+doc_399dacb2736f0f29,persona_02,Compradora Social e Presenteadora,11303,bem_maes,nao_inferido,nao_inferido,nao_inferido,nao_inferido,-0.034390935277282465,-0.362969561470758
+doc_6a7dc800256491db,persona_02,Compradora Social e Presenteadora,6600,bem_maes,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.09342156273446327,-0.13978429931325742
+doc_52dd07d4014ead58,persona_02,Compradora Social e Presenteadora,7552,bem_maes,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.17183599990557766,-0.11268754451850611
+doc_35dea0d9c934b094,persona_02,Compradora Social e Presenteadora,10329,bem_maes,nao_inferido,nao_inferido,nao_inferido,nao_inferido,-0.03428557587854553,-0.34976969390743806
+doc_5382bf57549b07cb,persona_02,Compradora Social e Presenteadora,7107,bem_maes,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.17108756767770641,-0.02160297899011991
+doc_7244ee28c4ae4fdf,persona_00,Cuidadora Consciente,9200,havana_iii,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.22914938202378368,-0.2919664471890741
+doc_4fb6c79b4c64bba8,persona_00,Cuidadora Consciente,8287,havana_iii,nao_inferido,nao_inferido,nao_inferido,nao_inferido,0.37884439238309714,-0.11679174472968311
+doc_d52d828ab53d85d0,persona_01,Comparadora Omnicanal,2846,natura_3cs,nao_inferido,natura,consultoras,nao_inferido,-0.21041558648168965,0.19151428248695337
+doc_2fd5110893661ffc,persona_01,Comparadora Omnicanal,4139,natura_3cs,nao_inferido,natura,consultoras,nao_inferido,-0.38791823151523447,-0.031719683583223475
+doc_52108ac94ef635f9,persona_02,Compradora Social e Presenteadora,5623,natura_3cs,nao_inferido,natura,consultoras,nao_inferido,-0.38501877172145005,-0.059720172162974185
+doc_1434a07027866aa7,persona_01,Comparadora Omnicanal,3388,natura_3cs,nao_inferido,natura,consultoras,nao_inferido,-0.39750690005807787,0.3904530671719331
+doc_a966111a7b9eb0a6,persona_01,Comparadora Omnicanal,5600,natura_3cs,nao_inferido,natura,consultoras,nao_inferido,-0.5670882421502359,0.34123131005037416
+doc_95f0f8f3bf008a0b,persona_02,Compradora Social e Presenteadora,6169,natura_3cs,nao_inferido,natura,consultoras,nao_inferido,-0.2950662951017517,-0.27081805361732975
+doc_14deab54cdbd6aa1,persona_02,Compradora Social e Presenteadora,4085,natura_3cs,nao_inferido,natura,consultoras,nao_inferido,-0.3162834256312502,-0.11710452406516261
+doc_5e6540144b9030fe,persona_01,Comparadora Omnicanal,4281,natura_3cs,nao_inferido,natura,consultoras,nao_inferido,-0.5454960542777841,0.37143433336576537
+doc_de596209415382fe,persona_01,Comparadora Omnicanal,2855,natura_3cs,nao_inferido,natura,consultoras,nao_inferido,-0.3868711519180982,0.201496107562795
+doc_f17a8b4e6ffe8287,persona_01,Comparadora Omnicanal,2206,natura_3cs,nao_inferido,natura,consultoras,nao_inferido,-0.5183800437232976,0.05354602968007866
+doc_ee8d1372d1a391aa,persona_02,Compradora Social e Presenteadora,1005,natura_3cs,nao_inferido,natura,consultoras,nao_inferido,0.0019923267777762974,0.029377175283590518
+doc_8117b4510b37b8a5,persona_01,Comparadora Omnicanal,2912,natura_3cs,nao_inferido,natura,consultoras,nao_inferido,-0.2934606339920112,0.33302084557109823
+doc_012fe174842b390e,persona_01,Comparadora Omnicanal,2788,natura_3cs,nao_inferido,natura,consultoras,nao_inferido,-0.4267323600547201,0.28058523146348663
+doc_37e5a363a19d31b7,persona_01,Comparadora Omnicanal,2339,natura_3cs,nao_inferido,natura,consultoras,nao_inferido,-0.2319677781232324,0.2787580883806713
+doc_e9d9fb1438841663,persona_02,Compradora Social e Presenteadora,2069,natura_3cs,nao_inferido,natura,consultoras,nao_inferido,-0.320302894085454,-0.28480774847240453
+doc_12c6ce2d2fba4df1,persona_01,Comparadora Omnicanal,7518,natura_3cs,nao_inferido,natura,consultoras,nao_inferido,-0.43667970039620396,0.14726841402857457
+doc_a9a088e94903df4b,persona_01,Comparadora Omnicanal,6816,natura_3cs,nao_inferido,natura,consultoras,nao_inferido,-0.31941305148432486,0.1580291166482156
+doc_ec00d9b912869528,persona_01,Comparadora Omnicanal,4247,natura_3cs,nao_inferido,natura,consultoras,nao_inferido,-0.16386022855994486,0.06493956973116616
+doc_5c06d290f301eadb,persona_01,Comparadora Omnicanal,3192,natura_3cs,nao_inferido,natura,consultoras,nao_inferido,-0.4976969674181597,0.3349688125875052
+doc_2fad00e3ce11f4af,persona_01,Comparadora Omnicanal,7715,natura_3cs,nao_inferido,natura,consultoras,nao_inferido,-0.5422551381675276,0.2619432956625611
+doc_33806bf9e4eb621f,persona_01,Comparadora Omnicanal,2030,natura_3cs,nao_inferido,natura,consumidoras,nao_inferido,-0.2519935479853147,0.11588769745026001
+doc_89fa2004a39f9cde,persona_02,Compradora Social e Presenteadora,3651,natura_3cs,nao_inferido,natura,consumidoras,nao_inferido,-0.2685912418726611,-0.5213585441009521
+doc_1055808810073bc2,persona_02,Compradora Social e Presenteadora,3128,natura_3cs,nao_inferido,natura,consumidoras,nao_inferido,-0.28923130567886035,-0.4201730900647967
+doc_27d3eb4bf6306e35,persona_02,Compradora Social e Presenteadora,1105,natura_3cs,nao_inferido,natura,consumidoras,nao_inferido,-0.25143249545062324,-0.3018057339498832
+doc_0a02c0b1be74620a,persona_02,Compradora Social e Presenteadora,2776,natura_3cs,nao_inferido,natura,consumidoras,nao_inferido,-0.015348301152311844,-0.49502647913800923
+doc_ff5e78e6e44318bb,persona_02,Compradora Social e Presenteadora,3896,natura_3cs,nao_inferido,natura,consumidoras,nao_inferido,-0.3073646473412719,-0.5952633973428819
+doc_124f0c4d1195ab02,persona_02,Compradora Social e Presenteadora,6396,natura_3cs,nao_inferido,natura,consumidoras,nao_inferido,-0.17676735073591102,-0.36821659847904464
+doc_f32e185da3913dd6,persona_02,Compradora Social e Presenteadora,3582,natura_3cs,nao_inferido,natura,consumidoras,nao_inferido,-0.1626108843151383,-0.5329108215120192
+doc_d64503ab71e69ea1,persona_02,Compradora Social e Presenteadora,1858,natura_3cs,nao_inferido,natura,consumidoras,nao_inferido,-0.24721520717647727,-0.46568005208069196
+doc_44982372dd74c6da,persona_02,Compradora Social e Presenteadora,1561,natura_3cs,nao_inferido,natura,consumidoras,nao_inferido,-0.23953807830211415,-0.3153494860471457
+doc_11e122f8db3f0253,persona_02,Compradora Social e Presenteadora,787,natura_3cs,nao_inferido,natura,consumidoras,nao_inferido,-0.18679881554703615,-0.2513960473017904
+doc_cfb49b86362bd118,persona_02,Compradora Social e Presenteadora,3843,natura_3cs,nao_inferido,natura,consumidoras,nao_inferido,-0.0938564997798087,-0.5125916946965579
+doc_b99597afcc8d7201,persona_02,Compradora Social e Presenteadora,2673,natura_3cs,nao_inferido,natura,consumidoras,nao_inferido,-0.37891309987855293,-0.39232313492697746
+doc_cda5ac0ca4bfa447,persona_02,Compradora Social e Presenteadora,6033,natura_3cs,nao_inferido,natura,consumidoras,nao_inferido,-0.22353096278956827,-0.19909697484025668
+doc_88268e58fe588334,persona_02,Compradora Social e Presenteadora,6069,natura_3cs,nao_inferido,natura,consumidoras,nao_inferido,-0.2117878761984212,-0.19176102941931836
+doc_1e5ee5a39b2288b7,persona_02,Compradora Social e Presenteadora,2162,natura_3cs,nao_inferido,natura,consumidoras,nao_inferido,-0.19833786298812825,-0.389138301767613
+doc_f497f66116fbe1ab,persona_02,Compradora Social e Presenteadora,2784,natura_3cs,nao_inferido,natura,consumidoras,nao_inferido,-0.2992287376334571,-0.26647746625194607
+doc_4b2394cc0e9c67f8,persona_02,Compradora Social e Presenteadora,395,natura_3cs,nao_inferido,natura,nao_inferido,nao_inferido,-0.024358581043553967,-0.05228283563213034
+doc_981214beda5a6637,persona_02,Compradora Social e Presenteadora,4350,natura_3cs,nao_inferido,natura,nao_inferido,nao_inferido,-0.45382825833664914,-0.09624858946422014
+doc_f40017cf17c84e54,persona_01,Comparadora Omnicanal,3618,natura_3cs,nao_inferido,natura,nao_inferido,nao_inferido,-0.5807246501846515,0.018609724625562804
+doc_a14aed810abe7b9b,persona_01,Comparadora Omnicanal,3384,natura_3cs,nao_inferido,natura,nao_inferido,nao_inferido,-0.4782378678193654,0.26652879337451746
+doc_500a84cf9936a539,persona_01,Comparadora Omnicanal,5933,natura_3cs,nao_inferido,natura,nao_inferido,nao_inferido,-0.3775587376921689,0.0855746416903635
+doc_dbba6e8dcfd5390a,persona_01,Comparadora Omnicanal,6324,natura_3cs,nao_inferido,natura,nao_inferido,nao_inferido,-0.5053484839085474,0.045632574532109865
+doc_c8cb62c97a6b1133,persona_01,Comparadora Omnicanal,4818,natura_3cs,nao_inferido,natura,nao_inferido,nao_inferido,-0.5259251801269275,0.04604494746874287
+doc_bb533aa1ff54f550,persona_01,Comparadora Omnicanal,4235,natura_3cs,nao_inferido,natura,nao_inferido,nao_inferido,-0.4227968832639396,0.2846727306377126
+doc_d9b928d2f9d57ae9,persona_01,Comparadora Omnicanal,12703,mercato_brasil,nao_inferido,nao_inferido,nao_inferido,nao_inferido,-0.2838315829866125,0.20394168220927797
+doc_9da29b5ddacac7d2,persona_01,Comparadora Omnicanal,9417,mercato_brasil,nao_inferido,nao_inferido,nao_inferido,nao_inferido,-0.271945569965059,0.33963574240794536
+doc_047d9aa2d7261b26,persona_01,Comparadora Omnicanal,11651,mercato_brasil,nao_inferido,nao_inferido,nao_inferido,nao_inferido,-0.16415199855627421,0.19811711718307645
+doc_478cbac543cfa72a,persona_01,Comparadora Omnicanal,9810,mercato_brasil,nao_inferido,nao_inferido,nao_inferido,nao_inferido,-0.36642328740870994,0.532179953707908
+doc_9997673909738651,persona_01,Comparadora Omnicanal,9854,mercato_brasil,nao_inferido,nao_inferido,nao_inferido,nao_inferido,-0.27849993018725266,0.30925585083616924
+doc_0dc2e6ecde931dc0,persona_02,Compradora Social e Presenteadora,16283,mercato_brasil,nao_inferido,nao_inferido,nao_inferido,nao_inferido,-0.1938725401274514,-0.06757226181308638
+doc_5e9eef5d22c00bcf,persona_01,Comparadora Omnicanal,10288,mercato_brasil,nao_inferido,nao_inferido,nao_inferido,nao_inferido,-0.1388728014475826,0.09077715586623503
+doc_ee180b4e719d4d7e,persona_01,Comparadora Omnicanal,17355,mercato_brasil,nao_inferido,nao_inferido,nao_inferido,nao_inferido,-0.3604733605538903,0.29260389663375325
+doc_4b466654cd374bdf,persona_01,Comparadora Omnicanal,11774,mercato_brasil,nao_inferido,nao_inferido,nao_inferido,nao_inferido,-0.17674018790050183,0.16816517306929693
+doc_0e16de972b72d565,persona_01,Comparadora Omnicanal,4977,compras_digitais,nao_inferido,nao_inferido,nao_inferido,nao_inferido,-0.5756982603986603,0.10189179776542179
+doc_fbdf5e17373e8de3,persona_02,Compradora Social e Presenteadora,5687,compras_digitais,nao_inferido,nao_inferido,nao_inferido,nao_inferido,-0.18273992439062092,-0.3995202645118948
+doc_d16712b5a3350889,persona_02,Compradora Social e Presenteadora,3058,compras_digitais,nao_inferido,nao_inferido,nao_inferido,nao_inferido,-0.29726411108334344,-0.3324454387651262
+doc_02c37e00145d9a32,persona_02,Compradora Social e Presenteadora,6125,compras_digitais,nao_inferido,nao_inferido,nao_inferido,nao_inferido,-0.27942278112279145,-0.36064003611998363
+doc_0f20528122df94e9,persona_02,Compradora Social e Presenteadora,5218,compras_digitais,nao_inferido,nao_inferido,nao_inferido,nao_inferido,-0.39293194385982866,-0.31163296343742286
+doc_80a271097010f616,persona_02,Compradora Social e Presenteadora,6590,compras_digitais,nao_inferido,nao_inferido,nao_inferido,nao_inferido,-0.29538610715597224,-0.3045249319932342
+doc_76c629289d2e414c,persona_02,Compradora Social e Presenteadora,4854,compras_digitais,nao_inferido,nao_inferido,nao_inferido,nao_inferido,-0.17857034994814697,-0.36729512377546675
+doc_732280b483c61985,persona_02,Compradora Social e Presenteadora,4328,compras_digitais,nao_inferido,nao_inferido,nao_inferido,nao_inferido,-0.30468409047704326,-0.40170520891641287
+doc_96b165a2a6f7a32d,persona_02,Compradora Social e Presenteadora,6425,compras_digitais,nao_inferido,nao_inferido,nao_inferido,nao_inferido,-0.28715965067968857,-0.3698025266890215
+doc_cc7b48f0bda6f359,persona_01,Comparadora Omnicanal,10000,compras_digitais,nao_inferido,nao_inferido,nao_inferido,nao_inferido,-0.43612202809181955,-0.11134860345728723
+doc_9852515aa99fe494,persona_01,Comparadora Omnicanal,7899,compras_digitais,nao_inferido,nao_inferido,nao_inferido,nao_inferido,-0.4933523605513754,-0.05066966679566011
+doc_6e02133bb486de22,persona_02,Compradora Social e Presenteadora,7955,compras_digitais,nao_inferido,nao_inferido,nao_inferido,nao_inferido,-0.12312608265825313,-0.4110515822301189
+doc_c9defe6cce5ff1fd,persona_02,Compradora Social e Presenteadora,5379,compras_digitais,nao_inferido,nao_inferido,nao_inferido,nao_inferido,-0.389882140545509,-0.20839544410654218
+doc_eb6a4496f5f5d136,persona_02,Compradora Social e Presenteadora,6371,compras_digitais,nao_inferido,nao_inferido,nao_inferido,nao_inferido,-0.20887388599152898,-0.4165159322588447
+doc_5e45678d66a9df7e,persona_02,Compradora Social e Presenteadora,8589,compras_digitais,nao_inferido,nao_inferido,nao_inferido,nao_inferido,-0.24153623834718013,-0.3458797962202633
+doc_9a5944b3d38727a2,persona_02,Compradora Social e Presenteadora,5687,compras_digitais,nao_inferido,nao_inferido,nao_inferido,nao_inferido,-0.17984217742610556,-0.39540492172248826
+doc_7125fa2ef3d8b81c,persona_00,Cuidadora Consciente,8594,jack_pearson,brasil,nao_inferido,nao_inferido,nao_inferido,0.49604974863169704,-0.004764302861058748
+doc_66b40b2eb6436092,persona_00,Cuidadora Consciente,6988,jack_pearson,brasil,nao_inferido,nao_inferido,nao_inferido,0.48039302901037606,-0.05125706743850046
+doc_3a9c3f93806290fb,persona_00,Cuidadora Consciente,9779,jack_pearson,brasil,nao_inferido,nao_inferido,nao_inferido,0.5365334289110729,-0.05964249187472065
+doc_2e794b5b52308c61,persona_00,Cuidadora Consciente,5652,jack_pearson,brasil,nao_inferido,nao_inferido,nao_inferido,0.4623347629720363,-0.10782429882627671
+doc_a57807230362f233,persona_00,Cuidadora Consciente,7674,jack_pearson,mexico,nao_inferido,nao_inferido,nao_inferido,0.6213188384460002,-0.051405590139871456
+doc_8d389e4147701c27,persona_00,Cuidadora Consciente,3890,jack_pearson,mexico,nao_inferido,nao_inferido,nao_inferido,0.6759100737164522,0.26357351410136337
+doc_92e08de844168c3e,persona_00,Cuidadora Consciente,5298,jack_pearson,mexico,nao_inferido,nao_inferido,nao_inferido,0.6354122059415509,0.244016492879783
+doc_948ae088c8e6f14c,persona_00,Cuidadora Consciente,6779,jack_pearson,mexico,nao_inferido,nao_inferido,nao_inferido,0.654511504196535,0.045515763496080885

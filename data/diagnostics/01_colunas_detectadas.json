@@ -1,0 +1,20 @@
+{
+  "tokens_chunks": {
+    "doc_id": "doc_id",
+    "chunk_id": "chunk_id",
+    "chunk_index": "chunk_index",
+    "language": "idioma",
+    "text": "texto_analise",
+    "tokens": "n_palavras",
+    "date": "timestamp_inicial"
+  },
+  "entrevistas_completas": {
+    "doc_id": "doc_id",
+    "chunk_id": null,
+    "chunk_index": null,
+    "language": "idioma",
+    "text": "texto_analise",
+    "tokens": "n_palavras_total",
+    "date": "data_bruta_nome_arquivo"
+  }
+}

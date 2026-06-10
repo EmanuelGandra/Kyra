@@ -1,0 +1,9 @@
+﻿check,ok,valor
+doc_id unico em docs_pre,True,155
+chunk_id unico em chunks_pre,True,6228
+chunk_id unico em chunks_modeling_pt,True,4976
+tokens_long_modeling alinhado com chunks_modeling_pt,True,4976 vs 4976
+sem page counters na base principal,True,0
+sem filenames/metadados na base principal,True,0
+sem timestamps na base principal,True,0
+base principal somente pt,True,pt

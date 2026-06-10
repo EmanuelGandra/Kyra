@@ -1,0 +1,19 @@
+cluster_label,tema_predito,confianca,tema_2o,confianca_2o,label_tfidf
+km_000,maternidade,1.0,fragancia_aroma,0.0,presente / dar / gosta / comprar
+km_001,experiencia_sensorial,0.998,design_estetica,0.002,pele / propagandas / mulheres / transmite
+km_002,compra_distribuicao,0.996,marca_branding,0.004,loja / boticario / presente / natura
+km_003,embalagem,1.0,design_estetica,0.0,refil / embalagem / parece / formato
+km_004,recomendacao,0.519,maternidade,0.48,mae / casa / filho / cuidar
+km_005,marca_branding,0.602,recomendacao,0.398,natura / clientes / vende / cliente
+km_006,marca_branding,0.701,performance_produto,0.231,papo / nome / comecar / bate papo
+km_007,cuidados_pele,1.0,experiencia_sensorial,0.0,pele / corpo / uso / gosto
+km_008,compra_distribuicao,0.917,marca_branding,0.083,fusao / pedido / natura / avon
+km_009,sustentabilidade,0.999,embalagem,0.001,produto / marca / produtos / questao
+km_010,design_estetica,1.0,embalagem,0.0,transmite / tecnologia / embalagem / parece
+km_011,cuidados_pele,0.978,experiencia_sensorial,0.022,energia / energizante / usaria / banho
+km_012,maternidade,1.0,sentimento_positivo,0.0,tecnologia / bio / bioeficiente / produto
+km_013,compra_distribuicao,1.0,preco_custo,0.0,revista / compra / site / comprar
+km_014,compra_distribuicao,0.926,marca_branding,0.072,boticario / natura / perfume / vende
+km_015,maternidade,0.891,rotina_uso,0.041,idade / nome / trabalho / moro
+km_016,cuidados_pele,1.0,experiencia_sensorial,0.0,pele negra / negra / pele / linha
+km_017,recomendacao,0.993,embalagem,0.003,propaganda / pele / produto / natura

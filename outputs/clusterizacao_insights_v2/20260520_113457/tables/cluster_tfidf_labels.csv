@@ -1,0 +1,19 @@
+cluster_label,n_chunks,top_terms,auto_label_short
+km_013,454,revista; compra; site; comprar; compro; exemplo; consultora; espaco; digital; manda; pelo; loja; interativa; aplicativo; produtos; produto; revista interativa; promocao; espaco digital; acha,revista / compra / site / comprar
+km_017,417,propaganda; pele; produto; natura; acido; amazonia; achei; questao; dessa; impressao; natural; cuidado; tempo; pode; hialuronico; acido hialuronico; natureza; traz; mostra; palavras,propaganda / pele / produto / natura
+km_002,404,loja; boticario; presente; natura; perfumaria; experiencia; lojas; perfume; ponto; consumidor; shopping; dentro; atencao; cara; marca; caixa; embalagem; presentes; pode; atendimento,loja / boticario / presente / natura
+km_008,403,fusao; pedido; natura; avon; lider; avo; vender; teve; ciclo; pontos; gerente; mudou; aplicativo; grupo; negocio; duas; exemplo; chegar; cliente; depois,fusao / pedido / natura / avon
+km_005,385,natura; clientes; vende; cliente; boticario; kit; perfume; presente; kits; vender; vem; entendi; marcas; exemplo; vendo; sempre; bastante; sabonete; comprar; hidratante,natura / clientes / vende / cliente
+km_003,365,refil; embalagem; parece; formato; plastico; ecos; legal; cor; diferente; atual; design; material; ver; acham; visual; lembra; produto; natureza; ficar; bonito,refil / embalagem / parece / formato
+km_009,346,produto; marca; produtos; questao; shampoo; natura; cabelo; barra; natureza; embalagem; uso; natural; propaganda; sempre; sabonete; marcas; biome; condicionador; ambiente; pode,produto / marca / produtos / questao
+km_004,334,mae; casa; filho; cuidar; filhos; sempre; tempo; vida; momento; cabelo; trabalho; semana; seu; gosto; mulher; depois; sua; nome; maes; questao,mae / casa / filho / cuidar
+km_014,253,boticario; natura; perfume; vende; perfumaria; consultora; vender; perfumes; presente; venda; amostra; relacao; ponto; compra; embalagem; loja; falava; trouxe; marca; fragrancia,boticario / natura / perfume / vende
+km_000,238,presente; dar; gosta; comprar; aniversario; presentear; mae; gosto; dar presente; legal; sempre; loja; exemplo; perfume; sua; costuma; presentes; entendi; dou; dei,presente / dar / gosta / comprar
+km_010,209,transmite; tecnologia; embalagem; parece; inovacao; produto; atencao; imagem; avancada; tecnologia avancada; ideia; chama atencao; chama; mostra; passo; sofisticacao; cor; pele; passo passo; transmite ideia,transmite / tecnologia / embalagem / parece
+km_006,208,papo; nome; comecar; bate papo; bate; conversa; vontade; ouvir; pode; ideia; conversar; prazer; microfone; entrar; ver; pouquinho; mundo; ficar; camera; depois,papo / nome / comecar / bate papo
+km_001,185,pele; propagandas; mulheres; transmite; impressao; produto; imagens; transmitem; passa; mulher; idade; olhando; propaganda; olhar; parece; conta; rosto; mensagem; diversidade; foto,pele / propagandas / mulheres / transmite
+km_007,181,pele; corpo; uso; gosto; hidratante; oleo; banho; creme; passo; cheiro; fica; passar; pele corpo; usa; rosto; hidratacao; depois; quero; faco; partes,pele / corpo / uso / gosto
+km_012,170,tecnologia; bio; bioeficiente; produto; nome; palavra; linha; eficiente; bioinovacao; cabeca; produtos; homem; dermotech; pele; biotec; otimo; bioexpert; barba; natural; nomes,tecnologia / bio / bioeficiente / produto
+km_016,159,pele negra; negra; pele; linha; hidratacao; marca; acha; produto; seria; hidratante; oleo; especifico; saber; produtos; acham; quero saber; negras; natura; quero; ver,pele negra / negra / pele / linha
+km_015,143,idade; nome; trabalho; moro; nome idade; filhos; mora; paulo; comecar; casada; pouquinho; prazer; vida; legal; tempo; area; natura; tarde; conhecer; otimo,idade / nome / trabalho / moro
+km_011,122,energia; energizante; usaria; banho; corpo; compraria; gel; linha; pele; isabela; produto; usar; disposicao; escova; noite; sabonete; manha; thais; circulacao; entendi,energia / energizante / usaria / banho

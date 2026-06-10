@@ -1,0 +1,106 @@
+﻿solution,k,persona_id,term,score,count,lift,persona_nome_auto
+macro_k3,3,macro_k3_p00,pele,7.830810443465226,2350,1.7422741968562743,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,sea,6.8561401382436,1313,1.5981083909556695,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,propaganda,6.815441271491744,909,1.7190785345047352,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,produto,6.769841420827629,2662,1.3592215993946275,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,parece,6.753493463003015,1288,1.5677029801688416,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,me,6.749759603415248,4916,1.212331564680395,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,natural,6.638605156032113,873,1.6648443044665955,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,producto,6.637077079143554,675,1.7691802093539934,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,yo,6.536292670921728,1470,1.450167115373349,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,algo,6.507811171027119,1575,1.4203103888477753,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,piel,6.501005523049147,565,1.7888313275451553,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,pues,6.34470028012086,891,1.5445187823931488,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,mi,6.3381644884192685,1243,1.4337449890286011,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,siento,6.323540211670735,568,1.7095802278969041,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,tecnologia,6.262874651736722,473,1.763508871597595,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,tambien,6.22029247512439,853,1.5131431099728543,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,negra,6.1755382737349285,391,1.8128829756669997,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,natureza,6.168620717387521,583,1.633730681106289,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,acido,6.163533609934454,383,1.8172920174815645,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,acho,6.1120364735282875,4051,1.0870935068959073,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,creo,6.074899956990028,616,1.5741747463754234,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,essa,6.03734896051103,2449,1.1676375805316737,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,crema,6.023809349187895,391,1.7423084559330044,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,cuidado,6.0021511057532555,651,1.5250263971925029,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,corpo,5.903517339175849,492,1.591150601547348,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,sensacao,5.902051030572477,411,1.6650971614821177,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,hace,5.901596736891028,468,1.610430583748226,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,asi,5.888037435507583,565,1.5317696404757035,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,cor,5.8719639347459305,444,1.6193364554428553,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,palavra,5.857678966751577,379,1.6807934392919939,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,colores,5.8505691617230955,298,1.790820875218727,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,entonces,5.849699668653284,603,1.4930463820891193,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,amazonia,5.837941723196233,288,1.801818416863432,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,va,5.802262075024053,461,1.5745555428984104,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,tiene,5.78168913253013,493,1.5399624531670162,Cuidadora Consciente
+macro_k3,3,macro_k3_p01,boticario,10.228904007752343,904,3.492895269067,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,perfumaria,8.997890487344637,326,3.730592685121859,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,156,8.762148895314246,230,4.002679211617253,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,avon,8.757661731317937,461,3.1676832171408065,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,133,8.410985598537708,195,3.9212310473053233,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,vender,8.338682299576789,395,3.031339841277603,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,loja,8.2522789688167,615,2.6137713977500643,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,pedido,8.130752040195274,379,2.9305289607896925,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,lider,8.130113006548525,238,3.4130025264485617,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,natura,8.097413786787687,2025,1.8965357316780926,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,vende,7.816956970103917,315,2.8888539584891624,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,perfume,7.807458565176575,608,2.379294135138866,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,venda,7.791893473691173,216,3.25602220892317,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,caixa,7.776451095474588,284,2.958071526210648,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,fusao,7.559180711860885,153,3.485028530333419,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,avo,7.492183882424596,190,3.163953304434909,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,tinha,7.444971293682333,800,2.0451180083185085,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,153,7.413819664599401,106,3.8870097774241676,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,kit,7.396159266484876,240,2.8515809512670645,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,pontos,7.387863483737396,165,3.24271614477054,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,kits,7.222232957692265,147,3.242922858364266,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,cliente,7.125808077356531,340,2.393531095954175,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,treinamento,6.998366170821459,86,3.7925590725521783,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,111,6.997703896709348,99,3.570086324736989,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,vendendo,6.955317587562535,127,3.1932916716683626,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,tem,6.953280544751609,3226,1.3646457205263418,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,consultora,6.905212840552322,279,2.405734519241855,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,consumidor,6.846057498503804,127,3.0999205701575914,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,essencial,6.844114417851413,116,3.208821960220557,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,natura boticario,6.839744851630401,90,3.5552670984833634,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,vendia,6.829832415487382,105,3.3255895037095464,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,lojas,6.789475695612635,171,2.7396293211981693,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,foi,6.748538252634583,995,1.657851662438958,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,vendas,6.679855132351346,109,3.1416759657685507,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,comissao,6.629037977436506,62,3.953059221390593,Comparadora Omnicanal
+macro_k3,3,macro_k3_p02,compro,8.188532019250745,418,2.881397526757146,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,vamos dizer,7.657783181554562,243,3.0270795968650037,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,hijos,7.423658004636419,122,3.6771056544226783,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,link,7.274832432346126,164,3.1569297325775194,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,mae,7.252929522594485,393,2.3655958817716667,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,interativa,6.965603865066363,66,4.24159676636418,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,revista,6.8181088115247555,314,2.2714318541843728,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,revista interativa,6.748383574779357,58,4.2331557777744,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,frete,6.610729300523364,104,3.138992631824238,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,comprar,6.610196344997703,568,1.8348243287401516,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,filho,6.584877659089174,169,2.604390429657934,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,dizer,6.574965909154485,365,2.046227182036668,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,site,6.551064305691535,217,2.3758711681308373,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,casa,6.534713646460877,396,1.980355689191944,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,manda,6.529688245549696,172,2.55050829889124,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,mercado livre,6.462953587985348,66,3.650994684971699,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,madres,6.438484729922722,50,4.142454966418185,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,maes,6.4207106940820085,139,2.6667548022577594,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,carrinho,6.401704558707678,73,3.4254076277234082,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,comprei,6.385943510311363,196,2.3492136388231097,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,vou,6.3833922040349815,952,1.535969181688698,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,madre,6.34837444563174,61,3.656219989162009,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,ellos,6.307962607525432,79,3.218619948252356,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,aniversario,6.184086504131434,98,2.8412367593197674,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,pela internet,6.16647974417291,71,3.228678135590645,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,mama,6.129681089505131,107,2.7030793693317023,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,internet,6.128537454699811,138,2.4624760540307244,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,nuestros,6.093806366187957,47,3.8265814940333565,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,promocao,6.073544781839123,208,2.116999938316689,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,49,6.039057198473039,112,2.5875221937712256,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,nosotras,5.972723157305101,53,3.469624265112335,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,dou,5.956933743895238,116,2.493434599763072,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,presente,5.94317986286391,417,1.6770269781632674,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,sogra,5.91156320634931,44,3.7253978487584356,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,me manda,5.870584172606898,56,3.2717271773985197,Compradora Social e Presenteadora

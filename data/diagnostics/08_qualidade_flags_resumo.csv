@@ -1,0 +1,7 @@
+﻿flag,n_chunks,pct_chunks
+has_many_noise_flags,9984,0.8292
+is_mixed_or_unknown_language,3138,0.2606
+is_too_long,120,0.01
+is_high_function_word_ratio,108,0.009
+is_too_short,11,0.0009
+is_low_lexical_diversity,7,0.0006

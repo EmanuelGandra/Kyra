@@ -1,0 +1,33 @@
+﻿base,coluna,dtype,n_linhas,non_null,missing,missing_pct,n_unique,unique_pct,avg_str_len,exemplos
+tokens,ano,object,12041,0,12041,100.0,0,0.0,,
+tokens,aspecto_gold,object,12041,0,12041,100.0,0,0.0,,
+tokens,canal_origem,object,12041,12041,0,0.0,2,0.02,3.0,pdf | pdf | pdf
+tokens,chunk_id,object,12041,12041,0,0.0,12041,100.0,28.0,doc_b53730e47cc798ef_ch_0001 | doc_b53730e47cc798ef_ch_0002 | doc_b53730e47cc798ef_ch_0003
+tokens,chunk_index,Int64,12041,12041,0,0.0,156,1.3,2.0,1 | 2 | 3
+tokens,collection_batch,object,12041,12041,0,0.0,1,0.01,2.0,v2 | v2 | v2
+tokens,contexto_origem,object,12041,12041,0,0.0,2,0.02,11.6,nao_inferido | nao_inferido | nao_inferido
+tokens,doc_id,object,12041,12041,0,0.0,155,1.29,20.0,doc_b53730e47cc798ef | doc_b53730e47cc798ef | doc_b53730e47cc798ef
+tokens,evidencia_citavel,Int64,12041,12041,0,0.0,1,0.01,1.0,0 | 0 | 0
+tokens,idioma,object,12041,12041,0,0.0,2,0.02,2.0,pt | pt | pt
+tokens,intencao_gold,object,12041,0,12041,100.0,0,0.0,,
+tokens,marca_foco,object,12041,12041,0,0.0,3,0.02,10.6,nao_inferido | nao_inferido | nao_inferido
+tokens,mes,object,12041,12041,0,0.0,8,0.07,6.2,abril | abril | abril
+tokens,n_caracteres,Int64,12041,12041,0,0.0,185,1.54,4.0,1194 | 1198 | 1199
+tokens,n_palavras,Int64,12041,12041,0,0.0,160,1.33,3.0,189 | 195 | 206
+tokens,pagina_final_pdf,object,12041,0,12041,100.0,0,0.0,,
+tokens,pagina_inicial_pdf,object,12041,0,12041,100.0,0,0.0,,
+tokens,pais,object,12041,12041,0,0.0,4,0.03,10.6,nao_inferido | nao_inferido | nao_inferido
+tokens,polaridade_gold,object,12041,0,12041,100.0,0,0.0,,
+tokens,prioridade_gold,object,12041,0,12041,100.0,0,0.0,,
+tokens,projeto,object,12041,12041,0,0.0,12,0.1,9.4,biome | biome | biome
+tokens,publico,object,12041,12041,0,0.0,4,0.03,11.9,nao_inferido | nao_inferido | nao_inferido
+tokens,qualidade_texto,object,12041,12041,0,0.0,3,0.02,4.0,alta | alta | alta
+tokens,requires_manual_review,Int64,12041,12041,0,0.0,2,0.02,1.0,0 | 0 | 0
+tokens,source_filename_hash,object,12041,12041,0,0.0,155,1.29,20.0,e108bde61f76578b40a5 | e108bde61f76578b40a5 | e108bde61f76578b40a5
+tokens,status_anonimizacao,object,12041,12041,0,0.0,1,0.01,2.0,ok | ok | ok
+tokens,status_extracao,object,12041,12041,0,0.0,1,0.01,2.0,ok | ok | ok
+tokens,tema_gold,object,12041,0,12041,100.0,0,0.0,,
+tokens,texto_analise,object,12041,12041,0,0.0,12034,99.94,1187.9,"Speaker 1 - 00:08    Só minutinho, então eu vou esperar.            Speaker 2 - 00:09    Os participantes que assistem,  | s. Antes de começar, aproveite para pegar uma água e ir ao banheiro. Assim, você não precisa  sair durante a conversa. A | não grave nem tire prints ou fotos da tela durante o bate-papo. Agora falta muito pouco para  começar. Não se esqueça qu"
+tokens,timestamp_final,object,12041,0,12041,100.0,0,0.0,,
+tokens,timestamp_inicial,object,12041,0,12041,100.0,0,0.0,,
+tokens,tipo_sessao,object,12041,12041,0,0.0,2,0.02,13.0,nao_inferido | nao_inferido | nao_inferido

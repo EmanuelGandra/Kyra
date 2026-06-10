@@ -1,0 +1,19 @@
+topic_id,topic_num,top_terms,auto_label_short
+nmf_00,0,boticario; natura; perfume; vende; marca; marcas; vender; perfumaria; perfumes; avon; essencial; clientes; cliente; natura boticario; cheiro,boticario / natura / perfume / vende
+nmf_01,1,propaganda; impressao; propagandas; mulheres; mulher; produto; marca; tempo; expressao; pele; amiga tempo; passa; duas semanas; mostra; idade,propaganda / impressao / propagandas / mulheres
+nmf_02,2,idade; trabalho; casa; filhos; nome; mae; tempo; vida; filho; semana; mora; moro; seu; momento; faco,idade / trabalho / casa / filhos
+nmf_03,3,corpo; banho; uso; hidratante; passo; creme; pele; sabonete; gosto; oleo; cheiro; rosto; usa; usar; noite,corpo / banho / uso / hidratante
+nmf_04,4,revista; site; compra; comprar; compro; digital; espaco; interativa; consultora; revista interativa; manda; espaco digital; pelo; exemplo; aplicativo,revista / site / compra / comprar
+nmf_05,5,presente; dar; presentear; gosta; dar presente; aniversario; mae; comprar; presentes; natal; gosto; maes; legal; sempre; comprar presente,presente / dar / presentear / gosta
+nmf_06,6,aproveite; sua camera; conversa; local; camera; conexao; bate papo; estiver; estamos; bate; papo; sua; diferentes; tenha; seu,aproveite / sua camera / conversa / local
+nmf_07,7,refil; embalagem; parece; formato; plastico; diferente; ecos; legal; cor; design; material; visual; atual; acham; lembra,refil / embalagem / parece / formato
+nmf_08,8,transmite; atencao; parece; embalagem; imagem; tecnologia; chama atencao; chama; inovacao; produto; sofisticacao; avancada; tecnologia avancada; chamou; ideia,transmite / atencao / parece / embalagem
+nmf_09,9,negra; pele negra; pele; acha; linha; especifico; saber; hidratacao; marca; seria; quero saber; branca; negras; peles; produto,negra / pele negra / pele / acha
+nmf_10,10,loja; lojas; boticario; experiencia; shopping; perfumaria; natura; consumidor; ponto; loja natura; atendimento; atencao; varejo; dentro; vitrine,loja / lojas / boticario / experiencia
+nmf_11,11,tecnologia; bio; bioeficiente; linha; produtos; nome; produto; cabeca; palavra; homem; eficiente; bioinovacao; dermotech; natural; seria,tecnologia / bio / bioeficiente / linha
+nmf_12,12,pedido; fusao; lider; avon; natura; avo; teve; pontos; ciclo; vender; mudou; minimo; gerente; grupo; aconteceu,pedido / fusao / lider / avon
+nmf_13,13,nome; comecar; papo; vontade; bate papo; bate; ouvir; prazer; microfone; conversar; importante; papo comecar; fiquem; prontinho; acionar microfone,nome / comecar / papo / vontade
+nmf_14,14,acido; acido hialuronico; hialuronico; amazonia; propaganda; tucuma; producao; pele amazonia; producao acido; hidratacao; pele; corpo; natureza; sentisse; sentisse pele,acido / acido hialuronico / hialuronico / amazonia
+nmf_15,15,vegano; bebe; produto; produto vegano; questao; frescor; natural; mar; ambiente; massagem; base; mergulho; cuidado; barra; sensacao,vegano / bebe / produto / produto vegano
+nmf_16,16,amanha; dormir; noite; deixasse amanha; deixasse; cuida; dormir melhor; enquanto cuida; cuida pele; melhor enquanto; enquanto; ritual; cuidar; natura noite; ritual dormir,amanha / dormir / noite / deixasse amanha
+nmf_17,17,kit; caixa; kits; sacola; presente; vem; embalagem; cliente; sabonete; presentes; caixas; entrega; montar; preco; dentro,kit / caixa / kits / sacola

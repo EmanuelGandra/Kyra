@@ -1,0 +1,38 @@
+{
+  "run_id": "20260520_111127",
+  "n_docs": 155,
+  "n_turns": 63647,
+  "n_new_chunks_total": 6228,
+  "n_new_chunks_modeling_pt": 4976,
+  "n_docs_modeling_pt": 131,
+  "pct_chunks_kept_for_modeling_pt": 0.7989723827874117,
+  "mean_words_new_chunks": 268.78612716763007,
+  "median_words_new_chunks": 265.0,
+  "mean_topic_tokens_modeling_pt": 91.71422829581994,
+  "language_distribution_all_chunks": {
+    "pt": 5149,
+    "es": 1079
+  },
+  "language_distribution_modeling_pt": {
+    "pt": 4976
+  },
+  "quality_reason_counts": {
+    "language_not_pt": 1079,
+    "procedural_intro_outro_or_consent": 100,
+    "exact_duplicate_clean": 75,
+    "too_short": 1
+  },
+  "residual_noise_modeling_pt": {
+    "has_page_counter_residual": 0,
+    "has_filename_residual": 0,
+    "has_meeting_meta_residual": 0,
+    "has_timestamp_residual": 0
+  },
+  "checklist_all_ok": true,
+  "outputs": {
+    "main_modeling": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/data/processed/interviews_chunks_modeling.parquet",
+    "modeling_pt": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/data/processed/interviews_chunks_modeling_pt.parquet",
+    "modeling_all": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/data/processed/interviews_chunks_modeling_all.parquet",
+    "tokens_long_modeling": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/data/processed/interviews_tokens_long_modeling.parquet"
+  }
+}

@@ -1,0 +1,19 @@
+nmf_topic_id,POS,NEU,NEG,n_chunks,label
+nmf_12,61.4,20.0,18.6,469,nmf_12 | pedido / fusao / lider / avon
+nmf_10,75.4,15.6,9.0,398,nmf_10 | loja / lojas / boticario / exp
+nmf_17,78.3,13.0,8.7,300,nmf_17 | kit / caixa / kits / sacola
+nmf_14,79.4,11.9,8.7,126,nmf_14 | acido / acido hialuronico / hi
+nmf_02,78.4,14.6,7.0,370,nmf_02 | idade / trabalho / casa / filh
+nmf_05,82.0,11.0,6.9,317,nmf_05 | presente / dar / presentear / 
+nmf_09,83.0,10.8,6.1,212,nmf_09 | negra / pele negra / pele / ac
+nmf_03,83.4,10.7,6.0,319,nmf_03 | corpo / banho / uso / hidratan
+nmf_04,81.3,13.0,5.7,530,nmf_04 | revista / site / compra / comp
+nmf_00,80.9,14.6,4.5,199,nmf_00 | boticario / natura / perfume /
+nmf_01,82.0,13.6,4.4,294,nmf_01 | propaganda / impressao / propa
+nmf_07,90.5,5.3,4.2,430,nmf_07 | refil / embalagem / parece / f
+nmf_08,87.5,9.1,3.5,287,nmf_08 | transmite / atencao / parece /
+nmf_11,90.9,6.1,3.0,231,nmf_11 | tecnologia / bio / bioeficient
+nmf_15,89.2,8.0,2.8,212,nmf_15 | vegano / bebe / produto / prod
+nmf_13,93.0,5.8,1.2,172,nmf_13 | nome / comecar / papo / vontad
+nmf_06,100.0,0.0,0.0,17,nmf_06 | aproveite / sua camera / conve
+nmf_16,90.3,9.7,0.0,93,nmf_16 | amanha / dormir / noite / deix

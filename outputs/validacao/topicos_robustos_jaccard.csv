@@ -1,0 +1,11 @@
+lda_idx,nmf_idx,jaccard,lda_label,nmf_label,termos_comuns
+0,8,0.714,embalagem / atencao / produto / parece,transmite / atencao / parece / embalagem,"atencao, chama, chama atencao, embalagem, imagem, parece"
+1,12,0.333,natura / tempo / pedido / depois,pedido / fusao / lider / avon,"avon, fusao, lider, natura, pedido, teve"
+2,10,0.5,loja / boticario / natura / experiencia,loja / lojas / boticario / experiencia,"boticario, experiencia, loja, lojas, natura, perfumaria"
+3,7,0.263,produto / embalagem / parece / ver,refil / embalagem / parece / formato,"diferente, embalagem, legal, parece, refil"
+4,0,0.5,natura / perfume / vende / cliente,boticario / natura / perfume / vende,"boticario, clientes, marca, marcas, natura, perfume"
+5,3,0.6,pele / corpo / uso / gosto,corpo / banho / uso / hidratante,"banho, cheiro, corpo, creme, gosto, hidratante"
+6,5,0.5,presente / mae / dar / gosto,presente / dar / presentear / gosta,"comprar, dar, gosta, gosto, mae, maes"
+7,1,0.263,produto / pele / propaganda / natura,propaganda / impressao / propagandas / mulheres,"impressao, marca, pele, produto, propaganda"
+8,4,0.333,comprar / revista / compra / site,revista / site / compra / comprar,"compra, comprar, compro, consultora, revista, site"
+9,13,0.333,nome / idade / comecar / papo,nome / comecar / papo / vontade,"comecar, nome, ouvir, papo, prazer, vontade"

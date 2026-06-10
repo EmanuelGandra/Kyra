@@ -1,0 +1,11 @@
+topic_id,topic_num,top_terms,auto_label_short
+lda_00,0,embalagem; atencao; produto; parece; transmite; chama; sofisticacao; chama atencao; cor; imagem; chamou; tecnologia; inovacao; chamou atencao; ideia,embalagem / atencao / produto / parece
+lda_01,1,natura; tempo; pedido; depois; avon; casa; lider; sempre; fusao; seu; pode; teve; trabalho; duas; avo,natura / tempo / pedido / depois
+lda_02,2,loja; boticario; natura; experiencia; perfume; perfumaria; lojas; marca; questao; ponto; produtos; shopping; comprar; presente; consumidor,loja / boticario / natura / experiencia
+lda_03,3,produto; embalagem; parece; ver; legal; linha; refil; produtos; diferente; natural; shampoo; pode; natureza; formato; nome,produto / embalagem / parece / ver
+lda_04,4,natura; perfume; vende; cliente; boticario; vem; linha; marca; kit; vender; clientes; marcas; sabonete; avon; produtos,natura / perfume / vende / cliente
+lda_05,5,pele; corpo; uso; gosto; hidratante; banho; negra; creme; oleo; pele negra; cheiro; fica; usar; sabonete; cabelo,pele / corpo / uso / gosto
+lda_06,6,presente; mae; dar; gosto; legal; gosta; passo; maes; sua; sempre; comprar; presentear; aniversario; casa; natal,presente / mae / dar / gosto
+lda_07,7,produto; pele; propaganda; natura; marca; questao; produtos; pode; cuidado; impressao; dessa; achei; tempo; mostra; mulher,produto / pele / propaganda / natura
+lda_08,8,comprar; revista; compra; site; compro; exemplo; produto; pelo; consultora; produtos; sempre; promocao; manda; digital; aplicativo,comprar / revista / compra / site
+lda_09,9,nome; idade; comecar; papo; trabalho; vontade; pouquinho; pode; sua; conversa; prazer; ouvir; bate; bate papo; moro,nome / idade / comecar / papo

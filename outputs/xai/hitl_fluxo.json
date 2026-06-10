@@ -1,0 +1,40 @@
+{
+  "versao": "1.0",
+  "data": "2026-05",
+  "descricao": "Fluxo de revisão humana dos rótulos gerados pelo modelo NMF e pela taxonomia Naive Bayes. Analistas da Kyra validam e corrigem os rótulos antes da entrega final.",
+  "etapas": [
+    {
+      "etapa": 1,
+      "acao": "Amostragem estratificada",
+      "descricao": "Sortear 10% dos chunks por cluster para revisão manual.",
+      "responsavel": "Analista Kyra",
+      "input": "chunks_with_clusters_topics.parquet",
+      "output": "amostra_revisao.csv"
+    },
+    {
+      "etapa": 2,
+      "acao": "Revisão de rótulos NMF",
+      "descricao": "Para cada tópico NMF, o analista lê os top-3 trechos e confirma ou ajusta o rótulo gerado automaticamente.",
+      "responsavel": "Analista Kyra",
+      "input": "top_trechos_nmf.csv",
+      "output": "rotulos_nmf_revisados.csv"
+    },
+    {
+      "etapa": 3,
+      "acao": "Revisão da taxonomia NB",
+      "descricao": "Para cada cluster, o analista verifica se o tema predito pelo MultinomialNB condiz com o conteúdo real dos trechos representativos.",
+      "responsavel": "Analista Kyra",
+      "input": "clusters_taxonomy_nb.csv",
+      "output": "clusters_taxonomy_revisados.csv"
+    },
+    {
+      "etapa": 4,
+      "acao": "Retroalimentação do modelo",
+      "descricao": "Casos corrigidos são adicionados como exemplos de treino para re-treinar o MultinomialNB na próxima iteração.",
+      "responsavel": "Time ML",
+      "input": "clusters_taxonomy_revisados.csv",
+      "output": "taxonomy_nb_v2.pkl"
+    }
+  ],
+  "criterio_aceitacao": "Concordância analista vs modelo >= 80% por cluster. Clusters abaixo de 80% são revisados e retroalimentados como exemplos adicionais."
+}

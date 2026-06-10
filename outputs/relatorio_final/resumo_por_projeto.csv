@@ -1,0 +1,13 @@
+projeto,n_chunks,n_docs,share_pct,tema_nmf_id,tema_nmf_label,n_chunks_tema,sent_pct_pos,sent_pct_neu,sent_pct_neg,score_lexico_medio,top5_termos_chi2
+natura_3cs,985,44,19.8,nmf_05,presente / dar / presentear / gosta,281,82.4,10.6,7.0,3.31,presente · presentes · presentear · aniversario · maes
+rosacea,539,10,10.8,nmf_01,propaganda / impressao / propagandas / mulheres,168,84.8,11.3,3.9,3.16,propaganda · acido · amazonia · hialuronico · acido hialuronico
+mercato_brasil,516,9,10.4,nmf_12,pedido / fusao / lider / avon,403,63.8,19.0,17.2,1.62,fusao · lider · avo · avon · pedido
+compras_digitais,492,15,9.9,nmf_04,revista / site / compra / comprar,431,82.5,12.8,4.7,3.03,site · interativa · revista · revista interativa · espaco digital
+3cs_perfumes,485,17,9.7,nmf_10,loja / lojas / boticario / experiencia,223,74.0,18.1,7.8,2.03,perfumaria · perfumes · boticario · perfume · mari
+radiosa,474,8,9.5,nmf_09,negra / pele negra / pele / acha,202,85.0,9.5,5.5,3.68,pele negra · negra · pele · nivea · corpo
+gaia_ii,416,8,8.4,nmf_08,transmite / atencao / parece / embalagem,253,87.7,8.9,3.4,3.47,transmite · tecnologia avancada · avancada · transmitem · marcia
+anima,406,8,8.2,nmf_07,refil / embalagem / parece / formato,367,91.6,4.7,3.7,4.79,refil · formato · atual · anc · plastico
+biome,236,4,4.7,nmf_15,vegano / bebe / produto / produto vegano,73,84.3,10.2,5.5,3.16,biome · lixo · barra · lola · rendimento
+jack_pearson,200,4,4.0,nmf_11,tecnologia / bio / bioeficiente / linha,182,95.5,3.0,1.5,5.54,bio · bioeficiente · bioinovacao · dermotech · biotec
+havana_iii,126,2,2.5,nmf_03,corpo / banho / uso / hidratante,94,74.6,15.1,10.3,2.2,energia · energizante · isabela · usaria · corpo ambiente
+bem_maes,101,2,2.0,nmf_02,idade / trabalho / casa / filhos,74,60.4,28.7,10.9,1.27,rede apoio · nesse maes · filhos comeca · filho · apoio

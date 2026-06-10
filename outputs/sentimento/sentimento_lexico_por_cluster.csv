@@ -1,0 +1,19 @@
+cluster_label,POS,NEU,NEG,n_chunks,label
+km_008,60.3,20.1,19.6,403,km_008 | fusao / pedido / natura / avon
+km_011,73.8,15.6,10.7,122,km_011 | energia / energizante / usaria
+km_002,72.0,17.3,10.6,404,km_002 | loja / boticario / presente / 
+km_004,73.1,18.9,8.1,334,km_004 | mae / casa / filho / cuidar
+km_000,84.0,8.0,8.0,238,km_000 | presente / dar / gosta / compr
+km_014,74.3,17.8,7.9,253,km_014 | boticario / natura / perfume /
+km_016,84.3,8.8,6.9,159,km_016 | pele negra / negra / pele / li
+km_005,83.9,10.1,6.0,385,km_005 | natura / clientes / vende / cl
+km_013,81.5,13.2,5.3,454,km_013 | revista / compra / site / comp
+km_007,85.1,9.9,5.0,181,km_007 | pele / corpo / uso / gosto
+km_009,83.5,12.1,4.3,346,km_009 | produto / marca / produtos / q
+km_017,84.4,11.5,4.1,417,km_017 | propaganda / pele / produto / 
+km_003,91.8,4.4,3.8,365,km_003 | refil / embalagem / parece / f
+km_010,87.1,9.6,3.3,209,km_010 | transmite / tecnologia / embal
+km_001,87.0,10.3,2.7,185,km_001 | pele / propagandas / mulheres 
+km_006,93.8,4.3,1.9,208,km_006 | papo / nome / comecar / bate p
+km_012,95.9,2.4,1.8,170,km_012 | tecnologia / bio / bioeficient
+km_015,93.7,4.9,1.4,143,km_015 | idade / nome / trabalho / moro

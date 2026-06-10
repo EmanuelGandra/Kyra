@@ -1,0 +1,205 @@
+﻿segment_col,segment_value,label_col,label,auto_label,n_chunks_segment_label,n_chunks_segment_total,share_in_segment,global_share,lift_vs_global
+marca_foco,nao_inferido,lda_topic_id,lda_03,pele / corpo / banho / passo,419,3742,0.1119722073757349,0.09043408360128617,1.2381637864481265
+marca_foco,nao_inferido,lda_topic_id,lda_05,comprar / compra / revista / exemplo,491,3742,0.13121325494388028,0.11173633440514469,1.174311432735159
+marca_foco,nao_inferido,lda_topic_id,lda_04,embalagem / marca / linha / perfume,528,3742,0.14110101549973275,0.125,1.128808123997862
+marca_foco,nao_inferido,lda_topic_id,lda_00,produto / pele / propaganda / produtos,947,3742,0.2530732228754677,0.232516077170418,1.0884117173969985
+marca_foco,nao_inferido,lda_topic_id,lda_01,natura / boticario / loja / presente,897,3742,0.2397113842864778,0.2779340836012862,0.8624756675412245
+marca_foco,nao_inferido,lda_topic_id,lda_02,nome / idade / sempre / mae,460,3742,0.12292891501870658,0.16237942122186494,0.7570473776399554
+marca_foco,nao_inferido,nmf_topic_id,nmf_05,aproveite / bate papo / papo / conversa,18,3742,0.004810261892036344,0.003617363344051447,1.3297701763762693
+marca_foco,nao_inferido,nmf_topic_id,nmf_01,embalagem / parece / produto / atencao,1037,3742,0.2771245323356494,0.22467845659163987,1.2334272566209223
+marca_foco,nao_inferido,nmf_topic_id,nmf_04,revista / compra / comprar / site,560,3742,0.14965259219668625,0.130024115755627,1.1509602763071265
+marca_foco,nao_inferido,nmf_topic_id,nmf_03,pele / corpo / negra / pele negra,828,3742,0.22127204703367184,0.2007636655948553,1.1021518578974485
+marca_foco,nao_inferido,nmf_topic_id,nmf_02,nome / idade / trabalho / hoje,858,3742,0.22928915018706575,0.23070739549839228,0.993852623110487
+marca_foco,nao_inferido,nmf_topic_id,nmf_00,boticario / presente / natura / perfume,441,3742,0.11785141635489044,0.2102090032154341,0.5606392426213526
+marca_foco,natura,lda_topic_id,lda_02,nome / idade / sempre / mae,348,1234,0.2820097244732577,0.16237942122186494,1.7367331546768938
+marca_foco,natura,lda_topic_id,lda_01,natura / boticario / loja / presente,486,1234,0.39384116693679094,0.2779340836012862,1.4170308363539201
+marca_foco,natura,lda_topic_id,lda_00,produto / pele / propaganda / produtos,210,1234,0.17017828200972449,0.232516077170418,0.7318989898706906
+marca_foco,natura,lda_topic_id,lda_04,embalagem / marca / linha / perfume,94,1234,0.07617504051863858,0.125,0.6094003241491086
+marca_foco,natura,lda_topic_id,lda_05,comprar / compra / revista / exemplo,65,1234,0.0526742301458671,0.11173633440514469,0.4714154122407099
+marca_foco,natura,lda_topic_id,lda_03,pele / corpo / banho / passo,31,1234,0.025121555915721232,0.09043408360128617,0.2777885827480641
+marca_foco,natura,nmf_topic_id,nmf_00,boticario / presente / natura / perfume,605,1234,0.49027552674230146,0.2102090032154341,2.3323241119213116
+marca_foco,natura,nmf_topic_id,nmf_02,nome / idade / trabalho / hoje,290,1234,0.23500810372771475,0.23070739549839228,1.018641397342429
+marca_foco,natura,nmf_topic_id,nmf_03,pele / corpo / negra / pele negra,171,1234,0.1385737439222042,0.2007636655948553,0.6902331829398279
+marca_foco,natura,nmf_topic_id,nmf_04,revista / compra / comprar / site,87,1234,0.07050243111831442,0.130024115755627,0.5422258071788757
+marca_foco,natura,nmf_topic_id,nmf_01,embalagem / parece / produto / atencao,81,1234,0.06564019448946515,0.22467845659163987,0.29215170642180555
+projeto,3cs_perfumes,lda_topic_id,lda_01,natura / boticario / loja / presente,416,485,0.8577319587628865,0.2779340836012862,3.086098500942967
+projeto,3cs_perfumes,lda_topic_id,lda_04,embalagem / marca / linha / perfume,27,485,0.05567010309278351,0.125,0.44536082474226807
+projeto,3cs_perfumes,lda_topic_id,lda_02,nome / idade / sempre / mae,33,485,0.06804123711340206,0.16237942122186494,0.41902623252015925
+projeto,3cs_perfumes,lda_topic_id,lda_05,comprar / compra / revista / exemplo,5,485,0.010309278350515464,0.11173633440514469,0.09226433286360602
+projeto,3cs_perfumes,lda_topic_id,lda_00,produto / pele / propaganda / produtos,4,485,0.008247422680412371,0.232516077170418,0.03547033297988934
+projeto,3cs_perfumes,nmf_topic_id,nmf_00,boticario / presente / natura / perfume,360,485,0.7422680412371134,0.2102090032154341,3.531095385464509
+projeto,3cs_perfumes,nmf_topic_id,nmf_02,nome / idade / trabalho / hoje,75,485,0.15463917525773196,0.23070739549839228,0.6702826969359532
+projeto,3cs_perfumes,nmf_topic_id,nmf_04,revista / compra / comprar / site,30,485,0.061855670103092786,0.130024115755627,0.47572459726891764
+projeto,3cs_perfumes,nmf_topic_id,nmf_01,embalagem / parece / produto / atencao,13,485,0.026804123711340205,0.22467845659163987,0.11929992807480219
+projeto,3cs_perfumes,nmf_topic_id,nmf_03,pele / corpo / negra / pele negra,7,485,0.01443298969072165,0.2007636655948553,0.0718904471481791
+projeto,anima,lda_topic_id,lda_04,embalagem / marca / linha / perfume,355,406,0.874384236453202,0.125,6.995073891625616
+projeto,anima,lda_topic_id,lda_02,nome / idade / sempre / mae,33,406,0.0812807881773399,0.16237942122186494,0.5005608935277764
+projeto,anima,lda_topic_id,lda_00,produto / pele / propaganda / produtos,12,406,0.029556650246305417,0.232516077170418,0.12711658740329798
+projeto,anima,lda_topic_id,lda_01,natura / boticario / loja / presente,4,406,0.009852216748768473,0.2779340836012862,0.0354480336528358
+projeto,anima,lda_topic_id,lda_03,pele / corpo / banho / passo,1,406,0.0024630541871921183,0.09043408360128617,0.02723590585659551
+projeto,anima,lda_topic_id,lda_05,comprar / compra / revista / exemplo,1,406,0.0024630541871921183,0.11173633440514469,0.022043448984654643
+projeto,anima,nmf_topic_id,nmf_01,embalagem / parece / produto / atencao,361,406,0.8891625615763546,0.22467845659163987,3.9574891828300007
+projeto,anima,nmf_topic_id,nmf_02,nome / idade / trabalho / hoje,35,406,0.08620689655172414,0.23070739549839228,0.37366334254475553
+projeto,anima,nmf_topic_id,nmf_04,revista / compra / comprar / site,5,406,0.012315270935960592,0.130024115755627,0.09471528311799059
+projeto,anima,nmf_topic_id,nmf_00,boticario / presente / natura / perfume,5,406,0.012315270935960592,0.2102090032154341,0.05858583955768633
+projeto,bem_maes,lda_topic_id,lda_02,nome / idade / sempre / mae,73,101,0.7227722772277227,0.16237942122186494,4.451132241937065
+projeto,bem_maes,lda_topic_id,lda_03,pele / corpo / banho / passo,21,101,0.2079207920792079,0.09043408360128617,2.299141914191419
+projeto,bem_maes,lda_topic_id,lda_00,produto / pele / propaganda / produtos,6,101,0.0594059405940594,0.232516077170418,0.25549175487989595
+projeto,bem_maes,lda_topic_id,lda_05,comprar / compra / revista / exemplo,1,101,0.009900990099009901,0.11173633440514469,0.08861029987890875
+projeto,bem_maes,nmf_topic_id,nmf_02,nome / idade / trabalho / hoje,91,101,0.900990099009901,0.23070739549839228,3.9053368751509296
+projeto,bem_maes,nmf_topic_id,nmf_03,pele / corpo / negra / pele negra,7,101,0.06930693069306931,0.2007636655948553,0.34521650363234524
+projeto,bem_maes,nmf_topic_id,nmf_01,embalagem / parece / produto / atencao,3,101,0.0297029702970297,0.22467845659163987,0.1322021289785508
+projeto,biome,lda_topic_id,lda_02,nome / idade / sempre / mae,74,236,0.3135593220338983,0.16237942122186494,1.931028696089948
+projeto,biome,lda_topic_id,lda_00,produto / pele / propaganda / produtos,100,236,0.423728813559322,0.232516077170418,1.822363505852365
+projeto,biome,lda_topic_id,lda_04,embalagem / marca / linha / perfume,36,236,0.15254237288135594,0.125,1.2203389830508475
+projeto,biome,lda_topic_id,lda_05,comprar / compra / revista / exemplo,21,236,0.08898305084745763,0.11173633440514469,0.796366296793074
+projeto,biome,lda_topic_id,lda_01,natura / boticario / loja / presente,5,236,0.0211864406779661,0.2779340836012862,0.0762282927068397
+projeto,biome,nmf_topic_id,nmf_05,aproveite / bate papo / papo / conversa,5,236,0.0211864406779661,0.003617363344051447,5.856873822975518
+projeto,biome,nmf_topic_id,nmf_01,embalagem / parece / produto / atencao,106,236,0.4491525423728814,0.22467845659163987,1.9990903853733968
+projeto,biome,nmf_topic_id,nmf_02,nome / idade / trabalho / hoje,64,236,0.2711864406779661,0.23070739549839228,1.1754562097679089
+projeto,biome,nmf_topic_id,nmf_04,revista / compra / comprar / site,34,236,0.1440677966101695,0.130024115755627,1.1080082781023237
+projeto,biome,nmf_topic_id,nmf_03,pele / corpo / negra / pele negra,24,236,0.1016949152542373,0.2007636655948553,0.5065404387438286
+projeto,biome,nmf_topic_id,nmf_00,boticario / presente / natura / perfume,3,236,0.012711864406779662,0.2102090032154341,0.06047250218751013
+projeto,compras_digitais,lda_topic_id,lda_05,comprar / compra / revista / exemplo,448,492,0.9105691056910569,0.11173633440514469,8.149265953091186
+projeto,compras_digitais,lda_topic_id,lda_02,nome / idade / sempre / mae,26,492,0.052845528455284556,0.16237942122186494,0.32544473959591086
+projeto,compras_digitais,lda_topic_id,lda_03,pele / corpo / banho / passo,9,492,0.018292682926829267,0.09043408360128617,0.20227642276422764
+projeto,compras_digitais,lda_topic_id,lda_01,natura / boticario / loja / presente,6,492,0.012195121951219513,0.2779340836012862,0.04387774897271749
+projeto,compras_digitais,lda_topic_id,lda_00,produto / pele / propaganda / produtos,2,492,0.0040650406504065045,0.232516077170418,0.017482836885412936
+projeto,compras_digitais,lda_topic_id,lda_04,embalagem / marca / linha / perfume,1,492,0.0020325203252032522,0.125,0.016260162601626018
+projeto,compras_digitais,nmf_topic_id,nmf_04,revista / compra / comprar / site,442,492,0.8983739837398373,0.130024115755627,6.909287392719368
+projeto,compras_digitais,nmf_topic_id,nmf_05,aproveite / bate papo / papo / conversa,7,492,0.014227642276422764,0.003617363344051447,3.933152664859982
+projeto,compras_digitais,nmf_topic_id,nmf_02,nome / idade / trabalho / hoje,22,492,0.044715447154471545,0.23070739549839228,0.19381887198662928
+projeto,compras_digitais,nmf_topic_id,nmf_03,pele / corpo / negra / pele negra,14,492,0.028455284552845527,0.2007636655948553,0.14173523116612546
+projeto,compras_digitais,nmf_topic_id,nmf_00,boticario / presente / natura / perfume,4,492,0.008130081300813009,0.2102090032154341,0.038676180260846585
+projeto,compras_digitais,nmf_topic_id,nmf_01,embalagem / parece / produto / atencao,3,492,0.006097560975609756,0.22467845659163987,0.027139054932588683
+projeto,gaia_ii,lda_topic_id,lda_00,produto / pele / propaganda / produtos,370,416,0.8894230769230769,0.232516077170418,3.8252110896881857
+projeto,gaia_ii,lda_topic_id,lda_03,pele / corpo / banho / passo,19,416,0.04567307692307692,0.09043408360128617,0.505042735042735
+projeto,gaia_ii,lda_topic_id,lda_02,nome / idade / sempre / mae,15,416,0.036057692307692304,0.16237942122186494,0.22205826351865957
+projeto,gaia_ii,lda_topic_id,lda_04,embalagem / marca / linha / perfume,7,416,0.016826923076923076,0.125,0.1346153846153846
+projeto,gaia_ii,lda_topic_id,lda_05,comprar / compra / revista / exemplo,5,416,0.01201923076923077,0.11173633440514469,0.10756779192030992
+projeto,gaia_ii,nmf_topic_id,nmf_01,embalagem / parece / produto / atencao,318,416,0.7644230769230769,0.22467845659163987,3.402298059722031
+projeto,gaia_ii,nmf_topic_id,nmf_05,aproveite / bate papo / papo / conversa,5,416,0.01201923076923077,0.003617363344051447,3.322649572649573
+projeto,gaia_ii,nmf_topic_id,nmf_03,pele / corpo / negra / pele negra,72,416,0.17307692307692307,0.2007636655948553,0.8620928620928621
+projeto,gaia_ii,nmf_topic_id,nmf_02,nome / idade / trabalho / hoje,20,416,0.04807692307692308,0.23070739549839228,0.20838917180380595
+projeto,gaia_ii,nmf_topic_id,nmf_04,revista / compra / comprar / site,1,416,0.002403846153846154,0.130024115755627,0.018487694685530853
+projeto,havana_iii,lda_topic_id,lda_03,pele / corpo / banho / passo,123,126,0.9761904761904762,0.09043408360128617,10.794497354497354
+projeto,havana_iii,lda_topic_id,lda_00,produto / pele / propaganda / produtos,2,126,0.015873015873015872,0.232516077170418,0.06826631545732668
+projeto,havana_iii,lda_topic_id,lda_02,nome / idade / sempre / mae,1,126,0.007936507936507936,0.16237942122186494,0.04887631620304888
+projeto,havana_iii,nmf_topic_id,nmf_03,pele / corpo / negra / pele negra,109,126,0.8650793650793651,0.2007636655948553,4.30894386449942
+projeto,havana_iii,nmf_topic_id,nmf_01,embalagem / parece / produto / atencao,12,126,0.09523809523809523,0.22467845659163987,0.4238861913280518
+projeto,havana_iii,nmf_topic_id,nmf_02,nome / idade / trabalho / hoje,5,126,0.03968253968253968,0.23070739549839228,0.17200376085393507
+projeto,jack_pearson,lda_topic_id,lda_03,pele / corpo / banho / passo,116,200,0.58,0.09043408360128617,6.413511111111111
+projeto,jack_pearson,lda_topic_id,lda_00,produto / pele / propaganda / produtos,71,200,0.355,0.232516077170418,1.5267761452031114
+projeto,jack_pearson,lda_topic_id,lda_02,nome / idade / sempre / mae,12,200,0.06,0.16237942122186494,0.3695049504950495
+projeto,jack_pearson,lda_topic_id,lda_05,comprar / compra / revista / exemplo,1,200,0.005,0.11173633440514469,0.044748201438848924
+projeto,jack_pearson,nmf_topic_id,nmf_01,embalagem / parece / produto / atencao,128,200,0.64,0.22467845659163987,2.848515205724508
+projeto,jack_pearson,nmf_topic_id,nmf_05,aproveite / bate papo / papo / conversa,1,200,0.005,0.003617363344051447,1.3822222222222222
+projeto,jack_pearson,nmf_topic_id,nmf_03,pele / corpo / negra / pele negra,42,200,0.21,0.2007636655948553,1.046006006006006
+projeto,jack_pearson,nmf_topic_id,nmf_02,nome / idade / trabalho / hoje,29,200,0.145,0.23070739549839228,0.6285017421602787
+projeto,mercato_brasil,lda_topic_id,lda_01,natura / boticario / loja / presente,447,516,0.8662790697674418,0.2779340836012862,3.116850796213153
+projeto,mercato_brasil,lda_topic_id,lda_02,nome / idade / sempre / mae,45,516,0.0872093023255814,0.16237942122186494,0.5370711489753627
+projeto,mercato_brasil,lda_topic_id,lda_04,embalagem / marca / linha / perfume,12,516,0.023255813953488372,0.125,0.18604651162790697
+projeto,mercato_brasil,lda_topic_id,lda_05,comprar / compra / revista / exemplo,7,516,0.013565891472868217,0.11173633440514469,0.12140984886509398
+projeto,mercato_brasil,lda_topic_id,lda_00,produto / pele / propaganda / produtos,4,516,0.007751937984496124,0.232516077170418,0.03333936336288048
+projeto,mercato_brasil,lda_topic_id,lda_03,pele / corpo / banho / passo,1,516,0.001937984496124031,0.09043408360128617,0.021429801894918173
+projeto,mercato_brasil,nmf_topic_id,nmf_02,nome / idade / trabalho / hoje,417,516,0.8081395348837209,0.23070739549839228,3.502876590227696
+projeto,mercato_brasil,nmf_topic_id,nmf_04,revista / compra / comprar / site,42,516,0.08139534883720931,0.130024115755627,0.6260019409798354
+projeto,mercato_brasil,nmf_topic_id,nmf_00,boticario / presente / natura / perfume,49,516,0.09496124031007752,0.2102090032154341,0.4517467799072139
+projeto,mercato_brasil,nmf_topic_id,nmf_03,pele / corpo / negra / pele negra,6,516,0.011627906976744186,0.2007636655948553,0.05791838349977885
+projeto,mercato_brasil,nmf_topic_id,nmf_01,embalagem / parece / produto / atencao,2,516,0.003875968992248062,0.22467845659163987,0.01725118220521141
+projeto,natura_3cs,lda_topic_id,lda_02,nome / idade / sempre / mae,336,985,0.3411167512690355,0.16237942122186494,2.1007388048449513
+projeto,natura_3cs,lda_topic_id,lda_01,natura / boticario / loja / presente,486,985,0.4934010152284264,0.2779340836012862,1.775244722904302
+projeto,natura_3cs,lda_topic_id,lda_04,embalagem / marca / linha / perfume,94,985,0.09543147208121827,0.125,0.7634517766497462
+projeto,natura_3cs,lda_topic_id,lda_05,comprar / compra / revista / exemplo,65,985,0.06598984771573604,0.11173633440514469,0.5905853997005442
+projeto,natura_3cs,lda_topic_id,lda_03,pele / corpo / banho / passo,2,985,0.0020304568527918783,0.09043408360128617,0.022452340665538636
+projeto,natura_3cs,lda_topic_id,lda_00,produto / pele / propaganda / produtos,2,985,0.0020304568527918783,0.232516077170418,0.00873254390621641
+projeto,natura_3cs,nmf_topic_id,nmf_00,boticario / presente / natura / perfume,604,985,0.6131979695431472,0.2102090032154341,2.9170870902932124
+projeto,natura_3cs,nmf_topic_id,nmf_02,nome / idade / trabalho / hoje,270,985,0.27411167512690354,0.23070739549839228,1.1881356231981464
+projeto,natura_3cs,nmf_topic_id,nmf_04,revista / compra / comprar / site,86,985,0.08730964467005076,0.130024115755627,0.6714880863650272
+projeto,natura_3cs,nmf_topic_id,nmf_03,pele / corpo / negra / pele negra,14,985,0.014213197969543147,0.2007636655948553,0.07079566876521191
+projeto,natura_3cs,nmf_topic_id,nmf_01,embalagem / parece / produto / atencao,11,985,0.01116751269035533,0.22467845659163987,0.04970442141968526
+projeto,radiosa,lda_topic_id,lda_03,pele / corpo / banho / passo,97,474,0.20464135021097046,0.09043408360128617,2.262878574777309
+projeto,radiosa,lda_topic_id,lda_02,nome / idade / sempre / mae,132,474,0.27848101265822783,0.16237942122186494,1.715001879934829
+projeto,radiosa,lda_topic_id,lda_04,embalagem / marca / linha / perfume,89,474,0.1877637130801688,0.125,1.5021097046413503
+projeto,radiosa,lda_topic_id,lda_00,produto / pele / propaganda / produtos,138,474,0.2911392405063291,0.232516077170418,1.252125203767929
+projeto,radiosa,lda_topic_id,lda_01,natura / boticario / loja / presente,16,474,0.03375527426160337,0.2779340836012862,0.12145064694558089
+projeto,radiosa,lda_topic_id,lda_05,comprar / compra / revista / exemplo,2,474,0.004219409282700422,0.11173633440514469,0.0377621953070455
+projeto,radiosa,nmf_topic_id,nmf_03,pele / corpo / negra / pele negra,376,474,0.7932489451476793,0.2007636655948553,3.951157908963816
+projeto,radiosa,nmf_topic_id,nmf_02,nome / idade / trabalho / hoje,74,474,0.15611814345991562,0.23070739549839228,0.6766932768785193
+projeto,radiosa,nmf_topic_id,nmf_00,boticario / presente / natura / perfume,13,474,0.027426160337552744,0.2102090032154341,0.13047091189260274
+projeto,radiosa,nmf_topic_id,nmf_04,revista / compra / comprar / site,6,474,0.012658227848101266,0.130024115755627,0.09735292391368146
+projeto,radiosa,nmf_topic_id,nmf_01,embalagem / parece / produto / atencao,5,474,0.010548523206751054,0.22467845659163987,0.04694941992557535
+projeto,rosacea,lda_topic_id,lda_00,produto / pele / propaganda / produtos,446,539,0.8274582560296846,0.232516077170418,3.5587141590351865
+projeto,rosacea,lda_topic_id,lda_03,pele / corpo / banho / passo,61,539,0.11317254174397032,0.09043408360128617,1.251436817151103
+projeto,rosacea,lda_topic_id,lda_02,nome / idade / sempre / mae,28,539,0.05194805194805195,0.16237942122186494,0.31991770605632
+projeto,rosacea,lda_topic_id,lda_01,natura / boticario / loja / presente,3,539,0.0055658627087198514,0.2779340836012862,0.020025837193485163
+projeto,rosacea,lda_topic_id,lda_04,embalagem / marca / linha / perfume,1,539,0.0018552875695732839,0.125,0.014842300556586271
+projeto,rosacea,nmf_topic_id,nmf_03,pele / corpo / negra / pele negra,328,539,0.608534322820037,0.2007636655948553,3.031097888240745
+projeto,rosacea,nmf_topic_id,nmf_01,embalagem / parece / produto / atencao,156,539,0.2894248608534323,0.22467845659163987,1.288173620399534
+projeto,rosacea,nmf_topic_id,nmf_02,nome / idade / trabalho / hoje,46,539,0.08534322820037106,0.23070739549839228,0.36991977658976166
+projeto,rosacea,nmf_topic_id,nmf_00,boticario / presente / natura / perfume,8,539,0.014842300556586271,0.2102090032154341,0.07060734949289989
+projeto,rosacea,nmf_topic_id,nmf_04,revista / compra / comprar / site,1,539,0.0018552875695732839,0.130024115755627,0.014268795898294684
+publico,consultoras,lda_topic_id,lda_01,natura / boticario / loja / presente,234,445,0.5258426966292135,0.2779340836012862,1.8919690950303443
+publico,consultoras,lda_topic_id,lda_02,nome / idade / sempre / mae,129,445,0.2898876404494382,0.16237942122186494,1.785248637223273
+publico,consultoras,lda_topic_id,lda_04,embalagem / marca / linha / perfume,54,445,0.12134831460674157,0.125,0.9707865168539326
+publico,consultoras,lda_topic_id,lda_05,comprar / compra / revista / exemplo,25,445,0.056179775280898875,0.11173633440514469,0.5027887802117856
+publico,consultoras,lda_topic_id,lda_03,pele / corpo / banho / passo,2,445,0.0044943820224719105,0.09043408360128617,0.04969787765293384
+publico,consultoras,lda_topic_id,lda_00,produto / pele / propaganda / produtos,1,445,0.0022471910112359553,0.232516077170418,0.00966466937935187
+publico,consultoras,nmf_topic_id,nmf_00,boticario / presente / natura / perfume,243,445,0.5460674157303371,0.2102090032154341,2.597735622059424
+publico,consultoras,nmf_topic_id,nmf_02,nome / idade / trabalho / hoje,145,445,0.3258426966292135,0.23070739549839228,1.4123634655287163
+publico,consultoras,nmf_topic_id,nmf_04,revista / compra / comprar / site,39,445,0.08764044943820225,0.130024115755627,0.6740322664675339
+publico,consultoras,nmf_topic_id,nmf_03,pele / corpo / negra / pele negra,12,445,0.02696629213483146,0.2007636655948553,0.13431858825117252
+publico,consultoras,nmf_topic_id,nmf_01,embalagem / parece / produto / atencao,6,445,0.01348314606741573,0.22467845659163987,0.06001085405318486
+publico,consumidoras,lda_topic_id,lda_02,nome / idade / sempre / mae,178,261,0.6819923371647509,0.16237942122186494,4.1999924130344075
+publico,consumidoras,lda_topic_id,lda_05,comprar / compra / revista / exemplo,35,261,0.13409961685823754,0.11173633440514469,1.2001433336089748
+publico,consumidoras,lda_topic_id,lda_04,embalagem / marca / linha / perfume,27,261,0.10344827586206896,0.125,0.8275862068965517
+publico,consumidoras,lda_topic_id,lda_01,natura / boticario / loja / presente,20,261,0.07662835249042145,0.2779340836012862,0.27570692841094513
+publico,consumidoras,lda_topic_id,lda_00,produto / pele / propaganda / produtos,1,261,0.0038314176245210726,0.232516077170418,0.01647807614487196
+publico,consumidoras,nmf_topic_id,nmf_00,boticario / presente / natura / perfume,140,261,0.5363984674329502,0.2102090032154341,2.551738789623671
+publico,consumidoras,nmf_topic_id,nmf_02,nome / idade / trabalho / hoje,88,261,0.3371647509578544,0.23070739549839228,1.4614388508417104
+publico,consumidoras,nmf_topic_id,nmf_04,revista / compra / comprar / site,31,261,0.11877394636015326,0.130024115755627,0.913476286071287
+publico,consumidoras,nmf_topic_id,nmf_03,pele / corpo / negra / pele negra,2,261,0.007662835249042145,0.2007636655948553,0.038168436635869586
+publico,lideres,lda_topic_id,lda_01,natura / boticario / loja / presente,42,52,0.8076923076923077,0.2779340836012862,2.9060570665776737
+publico,lideres,lda_topic_id,lda_02,nome / idade / sempre / mae,5,52,0.09615384615384616,0.16237942122186494,0.5921553693830922
+publico,lideres,lda_topic_id,lda_05,comprar / compra / revista / exemplo,2,52,0.038461538461538464,0.11173633440514469,0.3442169341449917
+publico,lideres,lda_topic_id,lda_04,embalagem / marca / linha / perfume,2,52,0.038461538461538464,0.125,0.3076923076923077
+publico,lideres,lda_topic_id,lda_00,produto / pele / propaganda / produtos,1,52,0.019230769230769232,0.232516077170418,0.08270726680406888
+publico,lideres,nmf_topic_id,nmf_02,nome / idade / trabalho / hoje,22,52,0.4230769230769231,0.23070739549839228,1.8338247118734923
+publico,lideres,nmf_topic_id,nmf_00,boticario / presente / natura / perfume,18,52,0.34615384615384615,0.2102090032154341,1.6467127518752758
+publico,lideres,nmf_topic_id,nmf_04,revista / compra / comprar / site,7,52,0.1346153846153846,0.130024115755627,1.0353109023897278
+publico,lideres,nmf_topic_id,nmf_03,pele / corpo / negra / pele negra,3,52,0.057692307692307696,0.2007636655948553,0.2873642873642874
+publico,lideres,nmf_topic_id,nmf_01,embalagem / parece / produto / atencao,2,52,0.038461538461538464,0.22467845659163987,0.17118480803632863
+publico,nao_inferido,lda_topic_id,lda_00,produto / pele / propaganda / produtos,1154,4218,0.27358937885253676,0.232516077170418,1.1766471470788444
+publico,nao_inferido,lda_topic_id,lda_03,pele / corpo / banho / passo,448,4218,0.10621147463252727,0.09043408360128617,1.1744628839365683
+publico,nao_inferido,lda_topic_id,lda_05,comprar / compra / revista / exemplo,494,4218,0.11711711711711711,0.11173633440514469,1.0481560697388035
+publico,nao_inferido,lda_topic_id,lda_04,embalagem / marca / linha / perfume,539,4218,0.12778568041725935,0.125,1.0222854433380748
+publico,nao_inferido,lda_topic_id,lda_01,natura / boticario / loja / presente,1087,4218,0.2577050734945472,0.2779340836012862,0.9272165189507352
+publico,nao_inferido,lda_topic_id,lda_02,nome / idade / sempre / mae,496,4218,0.11759127548601232,0.16237942122186494,0.7241759737851452
+publico,nao_inferido,nmf_topic_id,nmf_05,aproveite / bate papo / papo / conversa,18,4218,0.004267425320056899,0.003617363344051447,1.1797060218112851
+publico,nao_inferido,nmf_topic_id,nmf_01,embalagem / parece / produto / atencao,1110,4218,0.2631578947368421,0.22467845659163987,1.1712644760380377
+publico,nao_inferido,nmf_topic_id,nmf_03,pele / corpo / negra / pele negra,982,4218,0.2328117591275486,0.2007636655948553,1.1596309443630448
+publico,nao_inferido,nmf_topic_id,nmf_04,revista / compra / comprar / site,570,4218,0.13513513513513514,0.130024115755627,1.039308241781194
+publico,nao_inferido,nmf_topic_id,nmf_02,nome / idade / trabalho / hoje,893,4218,0.21171171171171171,0.23070739549839228,0.9176633079072104
+publico,nao_inferido,nmf_topic_id,nmf_00,boticario / presente / natura / perfume,645,4218,0.15291607396870555,0.2102090032154341,0.7274477859161365
+tipo_sessao,entrevista_em_profundidade,lda_topic_id,lda_01,natura / boticario / loja / presente,416,485,0.8577319587628865,0.2779340836012862,3.086098500942967
+tipo_sessao,entrevista_em_profundidade,lda_topic_id,lda_04,embalagem / marca / linha / perfume,27,485,0.05567010309278351,0.125,0.44536082474226807
+tipo_sessao,entrevista_em_profundidade,lda_topic_id,lda_02,nome / idade / sempre / mae,33,485,0.06804123711340206,0.16237942122186494,0.41902623252015925
+tipo_sessao,entrevista_em_profundidade,lda_topic_id,lda_05,comprar / compra / revista / exemplo,5,485,0.010309278350515464,0.11173633440514469,0.09226433286360602
+tipo_sessao,entrevista_em_profundidade,lda_topic_id,lda_00,produto / pele / propaganda / produtos,4,485,0.008247422680412371,0.232516077170418,0.03547033297988934
+tipo_sessao,entrevista_em_profundidade,nmf_topic_id,nmf_00,boticario / presente / natura / perfume,360,485,0.7422680412371134,0.2102090032154341,3.531095385464509
+tipo_sessao,entrevista_em_profundidade,nmf_topic_id,nmf_02,nome / idade / trabalho / hoje,75,485,0.15463917525773196,0.23070739549839228,0.6702826969359532
+tipo_sessao,entrevista_em_profundidade,nmf_topic_id,nmf_04,revista / compra / comprar / site,30,485,0.061855670103092786,0.130024115755627,0.47572459726891764
+tipo_sessao,entrevista_em_profundidade,nmf_topic_id,nmf_01,embalagem / parece / produto / atencao,13,485,0.026804123711340205,0.22467845659163987,0.11929992807480219
+tipo_sessao,entrevista_em_profundidade,nmf_topic_id,nmf_03,pele / corpo / negra / pele negra,7,485,0.01443298969072165,0.2007636655948553,0.0718904471481791
+tipo_sessao,nao_inferido,lda_topic_id,lda_03,pele / corpo / banho / passo,450,4491,0.10020040080160321,0.09043408360128617,1.1079937653083947
+tipo_sessao,nao_inferido,lda_topic_id,lda_00,produto / pele / propaganda / produtos,1153,4491,0.2567356936094411,0.232516077170418,1.1041631904931537
+tipo_sessao,nao_inferido,lda_topic_id,lda_05,comprar / compra / revista / exemplo,551,4491,0.1226898240926297,0.11173633440514469,1.0980297925987867
+tipo_sessao,nao_inferido,lda_topic_id,lda_02,nome / idade / sempre / mae,775,4491,0.1725673569360944,0.16237942122186494,1.0627415446955517
+tipo_sessao,nao_inferido,lda_topic_id,lda_04,embalagem / marca / linha / perfume,595,4491,0.13248719661545313,0.125,1.059897572923625
+tipo_sessao,nao_inferido,lda_topic_id,lda_01,natura / boticario / loja / presente,967,4491,0.21531952794477843,0.2779340836012862,0.7747143680789714
+tipo_sessao,nao_inferido,nmf_topic_id,nmf_05,aproveite / bate papo / papo / conversa,18,4491,0.004008016032064128,0.003617363344051447,1.1079937653083944
+tipo_sessao,nao_inferido,nmf_topic_id,nmf_03,pele / corpo / negra / pele negra,992,4491,0.22088621687820084,0.2007636655948553,1.1002300452311584
+tipo_sessao,nao_inferido,nmf_topic_id,nmf_01,embalagem / parece / produto / atencao,1105,4491,0.2460476508572701,0.22467845659163987,1.095110116874576
+tipo_sessao,nao_inferido,nmf_topic_id,nmf_04,revista / compra / comprar / site,617,4491,0.13738588287686485,0.130024115755627,1.0566184747995047
+tipo_sessao,nao_inferido,nmf_topic_id,nmf_02,nome / idade / trabalho / hoje,1073,4491,0.23892228902248944,0.23070739549839228,1.0356074130452155
+tipo_sessao,nao_inferido,nmf_topic_id,nmf_00,boticario / presente / natura / perfume,686,4491,0.15274994433311068,0.2102090032154341,0.7266574789689854

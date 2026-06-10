@@ -1,0 +1,13 @@
+projeto,pct_neg_lexico,pct_neg_bert,pct_pos_lexico,pct_pos_bert,rank_neg_lexico,rank_neg_bert,rank_diff
+mercato_brasil,17.2,16.5,63.8,5.8,1,1,0
+bem_maes,10.9,7.9,60.4,19.8,2,5,3
+havana_iii,10.3,6.3,74.6,6.3,3,8,5
+3cs_perfumes,7.8,6.4,74.0,6.8,4,7,3
+natura_3cs,7.0,7.7,82.4,13.0,5,6,1
+biome,5.5,10.6,84.3,8.1,6,3,3
+radiosa,5.5,10.1,85.0,13.1,6,4,2
+compras_digitais,4.7,5.1,82.5,6.5,8,10,2
+rosacea,3.9,3.7,84.8,21.7,9,12,3
+anima,3.7,15.0,91.6,18.0,10,2,8
+gaia_ii,3.4,5.8,87.7,14.7,11,9,2
+jack_pearson,1.5,4.0,95.5,26.5,12,11,1

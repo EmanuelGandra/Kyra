@@ -1,0 +1,23 @@
+# Kyra Pesquisa — Streamlit app dependencies
+# Python recomendado: 3.11
+
+streamlit>=1.36,<2.0
+pandas>=2.1,<3.0
+numpy>=1.26,<3.0
+plotly>=5.22,<6.0
+joblib>=1.3,<2.0
+
+# Modelo salvo em pickle/joblib. Use a mesma versão usada no treino do modelo.
+scikit-learn==1.8.0
+
+# Leitura de PDFs
+pypdf>=4.2,<6.0
+PyPDF2>=3.0,<4.0
+
+# Sentimento BERT usado em src/pipeline.py.
+# Se quiser rodar apenas fallback/dicionários, ainda assim pode manter instalado.
+transformers>=4.41,<5.0
+torch>=2.2,<3.0
+
+# Utilitários opcionais, mas úteis em alguns ambientes
+python-dateutil>=2.8,<3.0

@@ -1,0 +1,61 @@
+{
+  "run_id": "20260520_113457",
+  "input_path": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/data/processed/interviews_chunks_modeling.parquet",
+  "run_dir": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao_insights_v2/20260520_113457",
+  "n_chunks": 4976,
+  "n_docs": 131,
+  "embedding_meta": {
+    "method": "tfidf_svd_fallback",
+    "n_components": 256,
+    "explained_variance_ratio_sum": 0.18187099940043702
+  },
+  "reduction_cluster_meta": {
+    "method": "pca",
+    "n_components": 50
+  },
+  "reduction_2d_meta": {
+    "method": "pca",
+    "n_components": 2
+  },
+  "selected_clustering_model": {
+    "method": "kmeans",
+    "k": 18,
+    "selection_reason": "KMeans escolhido como default por estabilidade, cobertura total e interpretabilidade.",
+    "silhouette": 0.11257204413414001,
+    "stability_ari_mean": 0.8647031827391307,
+    "inertia_mean": 984.6190414428711,
+    "inertia_std": 1.2223460448109178,
+    "calinski_harabasz": 149.29550551274502,
+    "davies_bouldin": 2.439287345201978,
+    "n_clusters": 18,
+    "noise_share": 0.0,
+    "largest_cluster_share": 0.0912379421221865,
+    "score": 0.34631314980803546
+  },
+  "best_kmeans_k": 18,
+  "best_nmf_topics": 18,
+  "best_lda_topics": 10,
+  "segment_cols": [
+    "projeto",
+    "publico",
+    "marca_foco",
+    "tipo_sessao"
+  ],
+  "saved_files": {
+    "chunks_with_clusters_topics_parquet": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao_insights_v2/20260520_113457/chunks_with_clusters_topics.parquet",
+    "chunks_with_clusters_topics_csv": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao_insights_v2/20260520_113457/chunks_with_clusters_topics.csv",
+    "cluster_labels": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao_insights_v2/20260520_113457/tables/cluster_tfidf_labels.csv",
+    "cluster_examples": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao_insights_v2/20260520_113457/tables/cluster_representative_examples.csv",
+    "kmeans_grid": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao_insights_v2/20260520_113457/tables/kmeans_grid_stability.csv",
+    "hdbscan_grid": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao_insights_v2/20260520_113457/tables/hdbscan_grid_search.csv",
+    "nmf_grid": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao_insights_v2/20260520_113457/tables/nmf_grid_search.csv",
+    "nmf_topics": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao_insights_v2/20260520_113457/tables/nmf_topics.csv",
+    "lda_grid": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao_insights_v2/20260520_113457/tables/lda_grid_search.csv",
+    "lda_topics": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao_insights_v2/20260520_113457/tables/lda_topics.csv",
+    "insights_clusters": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao_insights_v2/20260520_113457/tables/insights_clusters_by_segment.csv",
+    "insights_nmf": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao_insights_v2/20260520_113457/tables/insights_nmf_topics_by_segment.csv",
+    "insights_lda": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao_insights_v2/20260520_113457/tables/insights_lda_topics_by_segment.csv",
+    "segment_divergence_clusters": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao_insights_v2/20260520_113457/tables/segment_divergence_clusters.csv",
+    "report": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao_insights_v2/20260520_113457/relatorio_clusterizacao_topicos.md"
+  }
+}

@@ -1,0 +1,62 @@
+﻿base,coluna,dtype,n_linhas,n_na,pct_na,n_unique,pct_unique_sobre_nao_nulo,amostras
+tokens_chunks,doc_id,object,12041,0,0.0,155,0.0129,doc_b53730e47cc798ef | doc_b53730e47cc798ef | doc_b53730e47cc798ef
+tokens_chunks,chunk_id,object,12041,0,0.0,12041,1.0,doc_b53730e47cc798ef_ch_0001 | doc_b53730e47cc798ef_ch_0002 | doc_b53730e47cc798ef_ch_0003
+tokens_chunks,chunk_index,Int64,12041,0,0.0,156,0.013,1 | 2 | 3
+tokens_chunks,source_filename_hash,object,12041,0,0.0,155,0.0129,e108bde61f76578b40a5 | e108bde61f76578b40a5 | e108bde61f76578b40a5
+tokens_chunks,collection_batch,object,12041,0,0.0,1,0.0001,v2 | v2 | v2
+tokens_chunks,mes,object,12041,0,0.0,8,0.0007,abril | abril | abril
+tokens_chunks,ano,object,12041,12041,1.0,0,,
+tokens_chunks,projeto,object,12041,0,0.0,12,0.001,biome | biome | biome
+tokens_chunks,pais,object,12041,0,0.0,4,0.0003,nao_inferido | nao_inferido | nao_inferido
+tokens_chunks,marca_foco,object,12041,0,0.0,3,0.0002,nao_inferido | nao_inferido | nao_inferido
+tokens_chunks,publico,object,12041,0,0.0,4,0.0003,nao_inferido | nao_inferido | nao_inferido
+tokens_chunks,tipo_sessao,object,12041,0,0.0,2,0.0002,nao_inferido | nao_inferido | nao_inferido
+tokens_chunks,canal_origem,object,12041,0,0.0,2,0.0002,pdf | pdf | pdf
+tokens_chunks,contexto_origem,object,12041,0,0.0,2,0.0002,nao_inferido | nao_inferido | nao_inferido
+tokens_chunks,idioma,object,12041,0,0.0,2,0.0002,pt | pt | pt
+tokens_chunks,texto_analise,object,12041,0,0.0,12034,0.9994,"Speaker 1 - 00:08    Só minutinho, então eu vou esperar.            Speaker 2 - 00:09    Os participantes que assistem, inclusive a Ana, entrarem aqui. Quando e | s. Antes de começar, aproveite para pegar uma água e ir ao banheiro. Assim, você não precisa  sair durante a conversa. Agora, para que você não tenha nenhuma pr | não grave nem tire prints ou fotos da tela durante o bate-papo. Agora falta muito pouco para  começar. Não se esqueça que estamos aqui para te ouvir, então não "
+tokens_chunks,n_caracteres,Int64,12041,0,0.0,185,0.0154,1194 | 1198 | 1199
+tokens_chunks,n_palavras,Int64,12041,0,0.0,160,0.0133,189 | 195 | 206
+tokens_chunks,pagina_inicial_pdf,object,12041,12041,1.0,0,,
+tokens_chunks,pagina_final_pdf,object,12041,12041,1.0,0,,
+tokens_chunks,timestamp_inicial,object,12041,12041,1.0,0,,
+tokens_chunks,timestamp_final,object,12041,12041,1.0,0,,
+tokens_chunks,evidencia_citavel,Int64,12041,0,0.0,1,0.0001,0 | 0 | 0
+tokens_chunks,status_anonimizacao,object,12041,0,0.0,1,0.0001,ok | ok | ok
+tokens_chunks,status_extracao,object,12041,0,0.0,1,0.0001,ok | ok | ok
+tokens_chunks,qualidade_texto,object,12041,0,0.0,3,0.0002,alta | alta | alta
+tokens_chunks,requires_manual_review,Int64,12041,0,0.0,2,0.0002,0 | 0 | 0
+tokens_chunks,tema_gold,object,12041,12041,1.0,0,,
+tokens_chunks,aspecto_gold,object,12041,12041,1.0,0,,
+tokens_chunks,polaridade_gold,object,12041,12041,1.0,0,,
+tokens_chunks,intencao_gold,object,12041,12041,1.0,0,,
+tokens_chunks,prioridade_gold,object,12041,12041,1.0,0,,
+entrevistas_completas,doc_id,object,155,0,0.0,155,1.0,doc_b53730e47cc798ef | doc_9ed820073ce06c76 | doc_a11e5233b2bda4e2
+entrevistas_completas,source_filename_hash,object,155,0,0.0,155,1.0,e108bde61f76578b40a5 | 612b6b60de6e532a1a4b | d5651dd4c490d22f337f
+entrevistas_completas,collection_batch,object,155,0,0.0,1,0.0065,v2 | v2 | v2
+entrevistas_completas,mes,object,155,0,0.0,8,0.0516,abril | abril | abril
+entrevistas_completas,mes_num,Int64,155,0,0.0,8,0.0516,4 | 4 | 4
+entrevistas_completas,ano,object,155,155,1.0,0,,
+entrevistas_completas,projeto,object,155,0,0.0,12,0.0774,biome | biome | biome
+entrevistas_completas,pais,object,155,0,0.0,4,0.0258,nao_inferido | nao_inferido | nao_inferido
+entrevistas_completas,marca_foco,object,155,0,0.0,3,0.0194,nao_inferido | nao_inferido | nao_inferido
+entrevistas_completas,publico,object,155,0,0.0,4,0.0258,nao_inferido | nao_inferido | nao_inferido
+entrevistas_completas,tipo_sessao,object,155,0,0.0,2,0.0129,nao_inferido | nao_inferido | nao_inferido
+entrevistas_completas,canal_origem,object,155,0,0.0,2,0.0129,pdf | pdf | pdf
+entrevistas_completas,contexto_origem,object,155,0,0.0,2,0.0129,nao_inferido | nao_inferido | nao_inferido
+entrevistas_completas,idioma,object,155,0,0.0,2,0.0129,pt | pt | pt
+entrevistas_completas,data_bruta_nome_arquivo,object,155,62,0.4,36,0.3871,11-04 | 11-04 | 12-04
+entrevistas_completas,hora_bruta_nome_arquivo,object,155,77,0.4968,22,0.2821,09:00 | 14:30 | 09:00
+entrevistas_completas,session_prefix,object,155,12,0.0774,10,0.0699,Q | Q | Q
+entrevistas_completas,session_num,Int64,155,12,0.0774,26,0.1818,1 | 2 | 3
+entrevistas_completas,n_paginas_pdf,Int64,155,0,0.0,97,0.6258,88 | 98 | 82
+entrevistas_completas,status_anonimizacao,object,155,0,0.0,1,0.0065,ok | ok | ok
+entrevistas_completas,status_extracao,object,155,0,0.0,1,0.0065,ok | ok | ok
+entrevistas_completas,qualidade_texto_global,object,155,0,0.0,1,0.0065,alta | alta | alta
+entrevistas_completas,requires_manual_review,Int64,155,0,0.0,2,0.0129,0 | 0 | 0
+entrevistas_completas,texto_analise,object,155,0,0.0,155,1.0,"Speaker 1 - 00:08    Só minutinho, então eu vou esperar.            Speaker 2 - 00:09    Os participantes que assistem, inclusive a Ana, entrarem aqui. Quando e | Speaker 1 - 00:16    Olá, tudo bem? Que bom ver você por aqui. Nós somos Akira, uma empresa dedicada a entender  comportamentos, necessidades e desejos das pess | Speaker 1 - 00:12    Olá, tudo bem? Que bom ver você por aqui. Nós somos Akira, uma empresa dedicada a entender  comportamentos, necessidades e desejos das pess"
+entrevistas_completas,n_caracteres_total,Int64,155,0,0.0,155,1.0,133013 | 127203 | 103581
+entrevistas_completas,n_palavras_total,Int64,155,0,0.0,154,0.9935,23026 | 21801 | 18095
+entrevistas_completas,duracao_aprox_min,object,155,155,1.0,0,,
+entrevistas_completas,resumo_executivo_curto,object,155,155,1.0,0,,
+entrevistas_completas,evidencia_citavel_doc,Int64,155,0,0.0,1,0.0065,0 | 0 | 0

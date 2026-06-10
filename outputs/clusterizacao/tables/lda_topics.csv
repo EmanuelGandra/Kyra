@@ -1,0 +1,7 @@
+﻿topic_id,topic_num,top_terms,auto_label_short
+lda_00,0,produto; pele; propaganda; produtos; natura; questao; marca; atencao; parece; impressao; natureza; pode; embalagem; passa; negra,produto / pele / propaganda / produtos
+lda_01,1,natura; boticario; loja; presente; avon; perfume; vende; vender; cliente; produtos; perfumaria; pedido; caixa; consultora; clientes,natura / boticario / loja / presente
+lda_02,2,nome; idade; sempre; mae; gosto; tempo; hoje; casa; presente; trabalho; dar; pouquinho; pode; mundo; ver,nome / idade / sempre / mae
+lda_03,3,pele; corpo; banho; passo; linha; hidratante; noite; creme; nome; pode; produto; passar; uso; produtos; palavra,pele / corpo / banho / passo
+lda_04,4,embalagem; marca; linha; perfume; parece; presente; cheiro; refil; sabonete; ver; natura; ecos; diferente; gosto; hidratante,embalagem / marca / linha / perfume
+lda_05,5,comprar; compra; revista; exemplo; compro; produto; loja; site; produtos; pelo; sempre; consultora; promocao; manda; pela,comprar / compra / revista / exemplo

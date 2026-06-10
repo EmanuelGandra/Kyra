@@ -1,0 +1,45 @@
+﻿segment_col,segment_value,persona_id,persona_nome_auto,n_entrevistas,share_no_segmento,share_global_persona,lift_vs_global
+projeto,3cs_perfumes,persona_01,Comparadora Omnicanal,14,0.7777777777777778,0.3032258064516129,2.5650118203309695
+projeto,3cs_perfumes,persona_02,Compradora Social e Presenteadora,4,0.2222222222222222,0.3161290322580645,0.7029478458049887
+projeto,anima,persona_00,Cuidadora Consciente,8,1.0,0.38064516129032255,2.6271186440677967
+projeto,bem_maes,persona_02,Compradora Social e Presenteadora,6,1.0,0.3161290322580645,3.163265306122449
+projeto,biome,persona_00,Cuidadora Consciente,2,0.5,0.38064516129032255,1.3135593220338984
+projeto,biome,persona_02,Compradora Social e Presenteadora,2,0.5,0.3161290322580645,1.5816326530612246
+projeto,compras_digitais,persona_01,Comparadora Omnicanal,3,0.1875,0.3032258064516129,0.6183510638297872
+projeto,compras_digitais,persona_02,Compradora Social e Presenteadora,13,0.8125,0.3161290322580645,2.57015306122449
+projeto,gaia_ii,persona_00,Cuidadora Consciente,8,1.0,0.38064516129032255,2.6271186440677967
+projeto,havana_iii,persona_00,Cuidadora Consciente,2,1.0,0.38064516129032255,2.6271186440677967
+projeto,jack_pearson,persona_00,Cuidadora Consciente,8,1.0,0.38064516129032255,2.6271186440677967
+projeto,mercato_brasil,persona_01,Comparadora Omnicanal,8,0.8888888888888888,0.3032258064516129,2.9314420803782504
+projeto,mercato_brasil,persona_02,Compradora Social e Presenteadora,1,0.1111111111111111,0.3161290322580645,0.35147392290249435
+projeto,natura_3cs,persona_01,Comparadora Omnicanal,22,0.4888888888888889,0.3032258064516129,1.6122931442080377
+projeto,natura_3cs,persona_02,Compradora Social e Presenteadora,23,0.5111111111111111,0.3161290322580645,1.616780045351474
+projeto,radiosa,persona_00,Cuidadora Consciente,8,1.0,0.38064516129032255,2.6271186440677967
+projeto,rosacea,persona_00,Cuidadora Consciente,23,1.0,0.38064516129032255,2.6271186440677967
+pais,argentina,persona_00,Cuidadora Consciente,7,1.0,0.38064516129032255,2.6271186440677967
+pais,brasil,persona_00,Cuidadora Consciente,14,1.0,0.38064516129032255,2.6271186440677967
+pais,mexico,persona_00,Cuidadora Consciente,10,1.0,0.38064516129032255,2.6271186440677967
+pais,nao_inferido,persona_00,Cuidadora Consciente,28,0.22580645161290322,0.38064516129032255,0.5932203389830508
+pais,nao_inferido,persona_01,Comparadora Omnicanal,47,0.3790322580645161,0.3032258064516129,1.25
+pais,nao_inferido,persona_02,Compradora Social e Presenteadora,49,0.3951612903225806,0.3161290322580645,1.25
+marca_foco,concorrencia,persona_00,Cuidadora Consciente,3,1.0,0.38064516129032255,2.6271186440677967
+marca_foco,nao_inferido,persona_00,Cuidadora Consciente,49,0.49,0.38064516129032255,1.2872881355932204
+marca_foco,nao_inferido,persona_01,Comparadora Omnicanal,25,0.25,0.3032258064516129,0.824468085106383
+marca_foco,nao_inferido,persona_02,Compradora Social e Presenteadora,26,0.26,0.3161290322580645,0.8224489795918368
+marca_foco,natura,persona_00,Cuidadora Consciente,7,0.1346153846153846,0.38064516129032255,0.3536505867014342
+marca_foco,natura,persona_01,Comparadora Omnicanal,22,0.4230769230769231,0.3032258064516129,1.395253682487725
+marca_foco,natura,persona_02,Compradora Social e Presenteadora,23,0.4423076923076923,0.3161290322580645,1.3991365777080063
+publico,consultoras,persona_01,Comparadora Omnicanal,15,0.75,0.3032258064516129,2.473404255319149
+publico,consultoras,persona_02,Compradora Social e Presenteadora,5,0.25,0.3161290322580645,0.7908163265306123
+publico,consumidoras,persona_01,Comparadora Omnicanal,1,0.058823529411764705,0.3032258064516129,0.1939924906132666
+publico,consumidoras,persona_02,Compradora Social e Presenteadora,16,0.9411764705882353,0.3161290322580645,2.9771908763505404
+publico,lideres,persona_01,Comparadora Omnicanal,1,0.5,0.3032258064516129,1.648936170212766
+publico,lideres,persona_02,Compradora Social e Presenteadora,1,0.5,0.3161290322580645,1.5816326530612246
+publico,nao_inferido,persona_00,Cuidadora Consciente,59,0.5086206896551724,0.38064516129032255,1.3362068965517242
+publico,nao_inferido,persona_01,Comparadora Omnicanal,30,0.25862068965517243,0.3032258064516129,0.8528980190755686
+publico,nao_inferido,persona_02,Compradora Social e Presenteadora,27,0.23275862068965517,0.3161290322580645,0.7362772695285011
+tipo_sessao,entrevista_em_profundidade,persona_01,Comparadora Omnicanal,14,0.7777777777777778,0.3032258064516129,2.5650118203309695
+tipo_sessao,entrevista_em_profundidade,persona_02,Compradora Social e Presenteadora,4,0.2222222222222222,0.3161290322580645,0.7029478458049887
+tipo_sessao,nao_inferido,persona_00,Cuidadora Consciente,59,0.4306569343065693,0.38064516129032255,1.1313868613138687
+tipo_sessao,nao_inferido,persona_01,Comparadora Omnicanal,33,0.24087591240875914,0.3032258064516129,0.7943780090076099
+tipo_sessao,nao_inferido,persona_02,Compradora Social e Presenteadora,45,0.3284671532846715,0.3161290322580645,1.0390287501862059

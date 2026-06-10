@@ -1,0 +1,19 @@
+topic_id,label,n_evidencias,max_score
+0,boticario / natura / perfume / vende,3,0.8122
+1,propaganda / impressao / propagandas / mulheres,3,0.9506
+2,idade / trabalho / casa / filhos,3,0.9883
+3,corpo / banho / uso / hidratante,3,0.9983
+4,revista / site / compra / comprar,3,0.9877
+5,presente / dar / presentear / gosta,3,0.942
+6,aproveite / sua camera / conversa / local,3,1.0
+7,refil / embalagem / parece / formato,3,1.0
+8,transmite / atencao / parece / embalagem,3,0.9542
+9,negra / pele negra / pele / acha,3,0.999
+10,loja / lojas / boticario / experiencia,3,0.8585
+11,tecnologia / bio / bioeficiente / linha,3,1.0
+12,pedido / fusao / lider / avon,3,1.0
+13,nome / comecar / papo / vontade,3,1.0
+14,acido / acido hialuronico / hialuronico / amazonia,3,0.9877
+15,vegano / bebe / produto / produto vegano,3,0.9929
+16,amanha / dormir / noite / deixasse amanha,3,1.0
+17,kit / caixa / kits / sacola,3,0.9579

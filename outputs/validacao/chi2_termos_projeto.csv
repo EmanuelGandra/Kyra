@@ -1,0 +1,181 @@
+classe,rank,termo,chi2
+3cs_perfumes,1,perfumaria,129.12
+3cs_perfumes,2,perfumes,59.37
+3cs_perfumes,3,boticario,47.42
+3cs_perfumes,4,perfume,44.97
+3cs_perfumes,5,mari,44.61
+3cs_perfumes,6,categoria,39.09
+3cs_perfumes,7,olfativo,38.84
+3cs_perfumes,8,experimentacao,38.44
+3cs_perfumes,9,mario,37.08
+3cs_perfumes,10,loja,36.75
+3cs_perfumes,11,caminho olfativo,35.1
+3cs_perfumes,12,lojas,34.91
+3cs_perfumes,13,consumidor,33.1
+3cs_perfumes,14,will,31.46
+3cs_perfumes,15,repertorio,31.05
+anima,1,refil,165.17
+anima,2,formato,88.46
+anima,3,atual,88.07
+anima,4,anc,83.25
+anima,5,plastico,70.89
+anima,6,design,69.58
+anima,7,fosco,66.76
+anima,8,btc,66.65
+anima,9,ceramica,56.78
+anima,10,material,56.23
+anima,11,prototipo,55.89
+anima,12,ecos,50.53
+anima,13,transparente,40.11
+anima,14,comparar,39.17
+anima,15,bico,38.43
+bem_maes,1,rede apoio,123.16
+bem_maes,2,nesse maes,72.67
+bem_maes,3,filhos comeca,68.33
+bem_maes,4,filho,64.1
+bem_maes,5,apoio,58.26
+bem_maes,6,mae,54.46
+bem_maes,7,stephanie,53.38
+bem_maes,8,filhos,51.47
+bem_maes,9,mulher mae,51.29
+bem_maes,10,cuidar,49.07
+bem_maes,11,propaganda maes,48.82
+bem_maes,12,natalia,46.62
+bem_maes,13,maes,46.56
+bem_maes,14,maternidade,45.27
+bem_maes,15,frase nesse,44.65
+biome,1,biome,100.09
+biome,2,lixo,76.88
+biome,3,barra,53.7
+biome,4,lola,47.9
+biome,5,rendimento,39.42
+biome,6,conscientizacao,36.75
+biome,7,rodrigo,36.11
+biome,8,marina,33.14
+biome,9,shampoo,33.03
+biome,10,condicionador,32.79
+biome,11,matheus,30.8
+biome,12,agroflorestal,30.5
+biome,13,concha,29.04
+biome,14,zero plastico,28.64
+biome,15,xampu,28.54
+compras_digitais,1,site,118.09
+compras_digitais,2,interativa,96.33
+compras_digitais,3,revista,94.28
+compras_digitais,4,revista interativa,92.91
+compras_digitais,5,espaco digital,86.09
+compras_digitais,6,carrinho,67.83
+compras_digitais,7,frete,67.54
+compras_digitais,8,espaco,65.82
+compras_digitais,9,digital,62.32
+compras_digitais,10,mercado livre,58.7
+compras_digitais,11,virtual,58.16
+compras_digitais,12,compro,57.27
+compras_digitais,13,compra,55.97
+compras_digitais,14,aplicativo,46.39
+compras_digitais,15,manda,43.23
+gaia_ii,1,transmite,134.02
+gaia_ii,2,tecnologia avancada,84.89
+gaia_ii,3,avancada,82.79
+gaia_ii,4,transmitem,74.09
+gaia_ii,5,marcia,60.37
+gaia_ii,6,imagens,56.62
+gaia_ii,7,escolheu,55.02
+gaia_ii,8,transmite ideia,54.8
+gaia_ii,9,conceicao,53.46
+gaia_ii,10,anny,52.68
+gaia_ii,11,sofisticacao,51.79
+gaia_ii,12,lilian,48.87
+gaia_ii,13,lidiane,48.86
+gaia_ii,14,vontade usar,47.2
+gaia_ii,15,propagandas,44.99
+havana_iii,1,energia,369.75
+havana_iii,2,energizante,294.18
+havana_iii,3,isabela,131.13
+havana_iii,4,usaria,110.63
+havana_iii,5,corpo ambiente,107.44
+havana_iii,6,escova,107.18
+havana_iii,7,gel,103.8
+havana_iii,8,vapor,101.56
+havana_iii,9,circulacao,96.6
+havana_iii,10,vapor banho,90.65
+havana_iii,11,gel banho,87.06
+havana_iii,12,energizar,81.54
+havana_iii,13,gengibre,80.53
+havana_iii,14,giovana,78.3
+havana_iii,15,dar energia,75.11
+jack_pearson,1,bio,271.59
+jack_pearson,2,bioeficiente,243.05
+jack_pearson,3,bioinovacao,151.63
+jack_pearson,4,dermotech,135.99
+jack_pearson,5,biotec,124.51
+jack_pearson,6,bioexpert,119.28
+jack_pearson,7,expert,113.13
+jack_pearson,8,tecnologia,104.76
+jack_pearson,9,lucas,100.71
+jack_pearson,10,dermo,97.59
+jack_pearson,11,eficiente,96.78
+jack_pearson,12,dermobalance,96.25
+jack_pearson,13,barba,87.16
+jack_pearson,14,bioxpert,87.1
+jack_pearson,15,dermotec,83.86
+mercato_brasil,1,fusao,184.39
+mercato_brasil,2,lider,113.12
+mercato_brasil,3,avo,96.9
+mercato_brasil,4,avon,94.66
+mercato_brasil,5,pedido,88.15
+mercato_brasil,6,gerente,64.89
+mercato_brasil,7,depois fusao,39.44
+mercato_brasil,8,cadastro,38.85
+mercato_brasil,9,passar pedido,37.86
+mercato_brasil,10,setor,36.49
+mercato_brasil,11,ciclo,35.49
+mercato_brasil,12,pedido minimo,31.43
+mercato_brasil,13,vendendo,28.29
+mercato_brasil,14,pedidos,27.88
+mercato_brasil,15,vendia,26.36
+natura_3cs,1,presente,121.93
+natura_3cs,2,presentes,68.69
+natura_3cs,3,presentear,50.84
+natura_3cs,4,aniversario,48.76
+natura_3cs,5,maes,40.36
+natura_3cs,6,kit,39.44
+natura_3cs,7,kits,39.1
+natura_3cs,8,datas,36.32
+natura_3cs,9,sacola,30.66
+natura_3cs,10,dar presente,30.28
+natura_3cs,11,comprar presente,27.49
+natura_3cs,12,data,25.41
+natura_3cs,13,namorados,20.3
+natura_3cs,14,lembrancinha,17.89
+natura_3cs,15,gosta,17.86
+radiosa,1,pele negra,170.81
+radiosa,2,negra,170.38
+radiosa,3,pele,69.89
+radiosa,4,nivea,54.6
+radiosa,5,corpo,54.57
+radiosa,6,oleo,54.22
+radiosa,7,quero saber,52.01
+radiosa,8,pele corpo,48.08
+radiosa,9,negras,47.87
+radiosa,10,ressecada,45.33
+radiosa,11,cotovelo,44.91
+radiosa,12,joelho,38.24
+radiosa,13,hidratacao,37.72
+radiosa,14,partes,32.86
+radiosa,15,ilana,30.44
+rosacea,1,propaganda,147.32
+rosacea,2,acido,77.2
+rosacea,3,amazonia,71.37
+rosacea,4,hialuronico,59.87
+rosacea,5,acido hialuronico,59.55
+rosacea,6,amiga tempo,59.15
+rosacea,7,dessa propaganda,55.97
+rosacea,8,tucuma,55.67
+rosacea,9,vegano,51.16
+rosacea,10,amanha,50.38
+rosacea,11,deixasse,46.59
+rosacea,12,fosse amiga,45.26
+rosacea,13,pele amazonia,41.29
+rosacea,14,deixasse amanha,41.1
+rosacea,15,produto vegano,39.32

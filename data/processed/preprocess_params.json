@@ -1,0 +1,17 @@
+{
+  "run_id": "20260520_111127",
+  "docs_table": "kyra-pml-20261.kyra_base_2026_1.entrevistas_docs_v2",
+  "old_chunks_table_reference_only": "kyra-pml-20261.kyra_base_2026_1.entrevistas_chunks_v2",
+  "modeling_language": "pt",
+  "target_words": 250,
+  "min_words": 120,
+  "max_words": 330,
+  "hard_max_words": 390,
+  "min_topic_tokens": 18,
+  "outputs": {
+    "main_modeling": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/data/processed/interviews_chunks_modeling.parquet",
+    "modeling_pt": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/data/processed/interviews_chunks_modeling_pt.parquet",
+    "modeling_all": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/data/processed/interviews_chunks_modeling_all.parquet",
+    "tokens_long_modeling": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/data/processed/interviews_tokens_long_modeling.parquet"
+  }
+}

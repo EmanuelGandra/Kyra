@@ -1,0 +1,15 @@
+{
+  "method": "kmeans",
+  "k": 18,
+  "selection_reason": "KMeans escolhido como default por estabilidade, cobertura total e interpretabilidade.",
+  "silhouette": 0.11257204413414001,
+  "stability_ari_mean": 0.8647031827391307,
+  "inertia_mean": 984.6190414428711,
+  "inertia_std": 1.2223460448109178,
+  "calinski_harabasz": 149.29550551274502,
+  "davies_bouldin": 2.439287345201978,
+  "n_clusters": 18,
+  "noise_share": 0.0,
+  "largest_cluster_share": 0.0912379421221865,
+  "score": 0.34631314980803546
+}

@@ -1,0 +1,2 @@
+modelo,f1_macro_com_suspeitos,f1_macro_sem_suspeitos,delta,termos_testados,chunks_com_termos,pct_chunks_afetados,conclusao
+LinearSVC,0.9557,0.9564,0.0006,"natura, avon, boticario, boticário, radiosa, kyra",2326,46.7,Sem queda relevante: F1 alto é sustentado pelo conteúdo semântico real.

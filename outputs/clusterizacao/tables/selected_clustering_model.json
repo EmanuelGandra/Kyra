@@ -1,0 +1,14 @@
+{
+  "method": "kmeans",
+  "k": 18.0,
+  "silhouette": 0.22727949917316437,
+  "stability_ari_mean": 0.983439508347377,
+  "inertia_mean": 294.06386108398436,
+  "inertia_std": 0.015900280257520147,
+  "calinski_harabasz": 510.38461967476456,
+  "davies_bouldin": 1.464600384621516,
+  "score": 0.46076703799736896,
+  "n_clusters": 18.0,
+  "noise_share": 0.0,
+  "largest_cluster_share": 0.08440514469453377
+}

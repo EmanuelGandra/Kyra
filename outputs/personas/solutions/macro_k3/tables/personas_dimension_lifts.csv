@@ -1,0 +1,49 @@
+﻿solution,k,persona_id,dimension,mean_per_1000_words,global_mean_per_1000_words,lift_vs_global,persona_nome_auto
+macro_k3,3,macro_k3_p00,natural_sustentavel_consciente,5.881070197893703,2.5253014822463995,2.3288586488541387,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,pele_corpo_cuidado_pessoal,12.873793540160234,6.725669619231966,1.914128149165666,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,eficacia_resultado_funcional,5.0640506604946705,3.0577023904228717,1.6561620504192778,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,inovacao_tecnologia_novidade,4.307105623473337,2.655917638447784,1.6217015020053738,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,diversidade_identidade_representatividade,3.0588424258829265,2.066859540686625,1.4799469270498944,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,duvida_ceticismo,4.9197116390215205,3.883899669855128,1.2666938019037524,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,sensorial_perfume_prazer,4.444883838316977,3.8699544260650725,1.1485623211424962,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,positivo_encantamento,0.9535522934659351,0.8699011404539279,1.096161677599775,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,praticidade_rotina_conveniencia,4.361498642122881,4.213859423694209,1.035036578960966,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,marca_confianca_tradicao,8.36787850277862,9.423001509392854,0.8880268664328996,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,comparacao_concorrencia,5.944012928668073,7.2505030814373255,0.8198069653795311,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,negativo_rejeicao,0.7172057497515717,0.974057503881747,0.7363074016610032,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,status_presente_estetica,3.164830840132036,5.396319311395639,0.5864795349394405,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,familia_social_influencia,1.4569774526728445,2.7583215737943223,0.528211600313389,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,preco_valor_promocao,1.0589410974805842,2.813144434161926,0.37642613888613125,Cuidadora Consciente
+macro_k3,3,macro_k3_p00,canal_loja_consultora_venda,1.530714567213182,7.328959838785211,0.20885836474537167,Cuidadora Consciente
+macro_k3,3,macro_k3_p01,comparacao_concorrencia,13.192914606515439,7.2505030814373255,1.819586097451889,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,canal_loja_consultora_venda,12.632816468130326,7.328959838785211,1.7236847719204091,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,marca_confianca_tradicao,15.597017726551753,9.423001509392854,1.655206964681544,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,preco_valor_promocao,4.484037807663457,2.813144434161926,1.5939593265140377,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,status_presente_estetica,7.5367403929633285,5.396319311395639,1.3966446309149405,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,sensorial_perfume_prazer,5.0784342002792915,3.8699544260650725,1.3122723528925346,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,familia_social_influencia,2.741040668705948,2.7583215737943223,0.9937349925938465,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,negativo_rejeicao,0.9668404539531583,0.974057503881747,0.9925907352493791,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,positivo_encantamento,0.8009520945820319,0.8699011404539279,0.9207392166011906,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,duvida_ceticismo,2.885196682275628,3.883899669855128,0.7428607656034657,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,praticidade_rotina_conveniencia,3.121055415207456,4.213859423694209,0.7406643414960643,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,eficacia_resultado_funcional,2.2581631833696014,3.0577023904228717,0.7385163416957998,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,diversidade_identidade_representatividade,1.5156184217178867,2.066859540686625,0.7332953168237005,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,inovacao_tecnologia_novidade,1.9377004666392563,2.655917638447784,0.7295785225372123,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,pele_corpo_cuidado_pessoal,2.7128122846198264,6.725669619231966,0.40335199886455536,Comparadora Omnicanal
+macro_k3,3,macro_k3_p01,natural_sustentavel_consciente,0.49066842869796895,2.5253014822463995,0.19430093085816091,Comparadora Omnicanal
+macro_k3,3,macro_k3_p02,familia_social_influencia,4.341821689821278,2.7583215737943223,1.5740810393795772,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,negativo_rejeicao,1.2902504598067266,0.974057503881747,1.3246142601077544,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,canal_loja_consultora_venda,9.223147786612346,7.328959838785211,1.2584524938727322,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,praticidade_rotina_conveniencia,5.084289515767384,4.213859423694209,1.2065636283875094,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,preco_valor_promocao,3.3226548078277878,2.813144434161926,1.1811177440726224,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,status_presente_estetica,6.030156637331791,5.396319311395639,1.1174573425626704,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,positivo_encantamento,0.8353131226635333,0.8699011404539279,0.9602391396195366,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,duvida_ceticismo,3.5946371032310327,3.883899669855128,0.9255226470268515,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,diversidade_identidade_representatividade,1.4011726501753774,2.066859540686625,0.6779234982314756,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,sensorial_perfume_prazer,2.0185384115562806,3.8699544260650725,0.5215922952376234,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,inovacao_tecnologia_novidade,1.3566546988251973,2.655917638447784,0.5108045065802854,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,marca_confianca_tradicao,4.771440186612686,9.423001509392854,0.5063609702127833,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,pele_corpo_cuidado_pessoal,3.171893770089163,6.725669619231966,0.4716101071957465,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,eficacia_resultado_funcional,1.4088002434283327,3.0577023904228717,0.46073818297061264,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,comparacao_concorrencia,3.123759761737625,7.2505030814373255,0.4308335196401816,Compradora Social e Presenteadora
+macro_k3,3,macro_k3_p02,natural_sustentavel_consciente,0.4362688147685478,2.5253014822463995,0.17275910137290293,Compradora Social e Presenteadora

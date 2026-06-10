@@ -1,0 +1,11 @@
+metric,value
+n_chunks,4976.0
+n_docs,131.0
+text_for_embedding_nulo_ou_vazio,0.0
+text_for_keywords_nulo_ou_vazio,0.0
+residuo_timestamp,0.0
+residuo_page_counter,0.0
+residuo_transcribed_url,0.0
+residuo_filename_audio,0.0
+media_palavras_embedding,268.52
+mediana_palavras_embedding,265.0

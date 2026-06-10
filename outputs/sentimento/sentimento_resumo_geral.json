@@ -1,0 +1,122 @@
+{
+  "3cs_perfumes": {
+    "n_chunks": 485,
+    "pct_pos": 74.0,
+    "pct_neg": 7.8,
+    "pct_neu": 18.1,
+    "score_lexico_medio": 2.03,
+    "score_lexico_mediana": 2.0,
+    "sentimento_dominante": "POS",
+    "metodo": "lexico"
+  },
+  "anima": {
+    "n_chunks": 406,
+    "pct_pos": 91.6,
+    "pct_neg": 3.7,
+    "pct_neu": 4.7,
+    "score_lexico_medio": 4.79,
+    "score_lexico_mediana": 4.0,
+    "sentimento_dominante": "POS",
+    "metodo": "lexico"
+  },
+  "bem_maes": {
+    "n_chunks": 101,
+    "pct_pos": 60.4,
+    "pct_neg": 10.9,
+    "pct_neu": 28.7,
+    "score_lexico_medio": 1.27,
+    "score_lexico_mediana": 1.0,
+    "sentimento_dominante": "POS",
+    "metodo": "lexico"
+  },
+  "biome": {
+    "n_chunks": 236,
+    "pct_pos": 84.3,
+    "pct_neg": 5.5,
+    "pct_neu": 10.2,
+    "score_lexico_medio": 3.16,
+    "score_lexico_mediana": 3.0,
+    "sentimento_dominante": "POS",
+    "metodo": "lexico"
+  },
+  "compras_digitais": {
+    "n_chunks": 492,
+    "pct_pos": 82.5,
+    "pct_neg": 4.7,
+    "pct_neu": 12.8,
+    "score_lexico_medio": 3.03,
+    "score_lexico_mediana": 3.0,
+    "sentimento_dominante": "POS",
+    "metodo": "lexico"
+  },
+  "gaia_ii": {
+    "n_chunks": 416,
+    "pct_pos": 87.7,
+    "pct_neg": 3.4,
+    "pct_neu": 8.9,
+    "score_lexico_medio": 3.47,
+    "score_lexico_mediana": 3.0,
+    "sentimento_dominante": "POS",
+    "metodo": "lexico"
+  },
+  "havana_iii": {
+    "n_chunks": 126,
+    "pct_pos": 74.6,
+    "pct_neg": 10.3,
+    "pct_neu": 15.1,
+    "score_lexico_medio": 2.2,
+    "score_lexico_mediana": 2.0,
+    "sentimento_dominante": "POS",
+    "metodo": "lexico"
+  },
+  "jack_pearson": {
+    "n_chunks": 200,
+    "pct_pos": 95.5,
+    "pct_neg": 1.5,
+    "pct_neu": 3.0,
+    "score_lexico_medio": 5.54,
+    "score_lexico_mediana": 5.0,
+    "sentimento_dominante": "POS",
+    "metodo": "lexico"
+  },
+  "mercato_brasil": {
+    "n_chunks": 516,
+    "pct_pos": 63.8,
+    "pct_neg": 17.2,
+    "pct_neu": 19.0,
+    "score_lexico_medio": 1.62,
+    "score_lexico_mediana": 1.0,
+    "sentimento_dominante": "POS",
+    "metodo": "lexico"
+  },
+  "natura_3cs": {
+    "n_chunks": 985,
+    "pct_pos": 82.4,
+    "pct_neg": 7.0,
+    "pct_neu": 10.6,
+    "score_lexico_medio": 3.31,
+    "score_lexico_mediana": 3.0,
+    "sentimento_dominante": "POS",
+    "metodo": "lexico"
+  },
+  "radiosa": {
+    "n_chunks": 474,
+    "pct_pos": 85.0,
+    "pct_neg": 5.5,
+    "pct_neu": 9.5,
+    "score_lexico_medio": 3.68,
+    "score_lexico_mediana": 3.0,
+    "sentimento_dominante": "POS",
+    "metodo": "lexico"
+  },
+  "rosacea": {
+    "n_chunks": 539,
+    "pct_pos": 84.8,
+    "pct_neg": 3.9,
+    "pct_neu": 11.3,
+    "score_lexico_medio": 3.16,
+    "score_lexico_mediana": 3.0,
+    "sentimento_dominante": "POS",
+    "metodo": "lexico"
+  }
+}

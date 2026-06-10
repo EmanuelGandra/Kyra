@@ -1,0 +1,12 @@
+{
+  "run_id": "20260519_210555",
+  "project_root": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2",
+  "data_dir": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/data",
+  "diag_dir": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/data/diagnostics",
+  "tokens_path_config": null,
+  "full_interviews_path_config": null,
+  "use_bigquery": true,
+  "bq_project": "kyra-pml-20261",
+  "bq_tokens_table": "kyra-pml-20261.kyra_base_2026_1.entrevistas_chunks_v2",
+  "bq_full_table": null
+}

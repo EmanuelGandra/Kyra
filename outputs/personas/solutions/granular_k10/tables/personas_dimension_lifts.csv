@@ -1,0 +1,161 @@
+﻿solution,k,persona_id,dimension,mean_per_1000_words,global_mean_per_1000_words,lift_vs_global,persona_nome_auto
+granular_k10,10,granular_k10_p00,natural_sustentavel_consciente,9.566158381466112,2.5253014822463995,3.788125278791057,consciente/natural/sustentável + curiosa por inovação e novidade
+granular_k10,10,granular_k10_p00,inovacao_tecnologia_novidade,4.16966757971348,2.655917638447784,1.5699536459083827,consciente/natural/sustentável + curiosa por inovação e novidade
+granular_k10,10,granular_k10_p00,duvida_ceticismo,5.500366957875271,3.883899669855128,1.4161969735125621,consciente/natural/sustentável + curiosa por inovação e novidade
+granular_k10,10,granular_k10_p00,positivo_encantamento,1.0813971911398585,0.8699011404539279,1.2431265357067687,consciente/natural/sustentável + curiosa por inovação e novidade
+granular_k10,10,granular_k10_p00,status_presente_estetica,6.2714407409992114,5.396319311395639,1.16217006057361,consciente/natural/sustentável + curiosa por inovação e novidade
+granular_k10,10,granular_k10_p00,praticidade_rotina_conveniencia,4.613545145183216,4.213859423694209,1.0948502741315016,consciente/natural/sustentável + curiosa por inovação e novidade
+granular_k10,10,granular_k10_p00,negativo_rejeicao,1.0203625399036689,0.974057503881747,1.0475382981368042,consciente/natural/sustentável + curiosa por inovação e novidade
+granular_k10,10,granular_k10_p00,diversidade_identidade_representatividade,1.8939367902473958,2.066859540686625,0.9163355094842183,consciente/natural/sustentável + curiosa por inovação e novidade
+granular_k10,10,granular_k10_p00,eficacia_resultado_funcional,2.530039025123909,3.0577023904228717,0.8274314181289605,consciente/natural/sustentável + curiosa por inovação e novidade
+granular_k10,10,granular_k10_p00,comparacao_concorrencia,5.511718175962464,7.2505030814373255,0.7601842401906589,consciente/natural/sustentável + curiosa por inovação e novidade
+granular_k10,10,granular_k10_p00,marca_confianca_tradicao,6.918550772662577,9.423001509392854,0.7342194274049687,consciente/natural/sustentável + curiosa por inovação e novidade
+granular_k10,10,granular_k10_p00,preco_valor_promocao,1.73827538578909,2.813144434161926,0.6179118870257886,consciente/natural/sustentável + curiosa por inovação e novidade
+granular_k10,10,granular_k10_p00,pele_corpo_cuidado_pessoal,4.146857257452173,6.725669619231966,0.6165716563885755,consciente/natural/sustentável + curiosa por inovação e novidade
+granular_k10,10,granular_k10_p00,sensorial_perfume_prazer,2.1833660638814756,3.8699544260650725,0.5641839214374156,consciente/natural/sustentável + curiosa por inovação e novidade
+granular_k10,10,granular_k10_p00,familia_social_influencia,1.335117058897291,2.7583215737943223,0.4840324172430396,consciente/natural/sustentável + curiosa por inovação e novidade
+granular_k10,10,granular_k10_p00,canal_loja_consultora_venda,2.886007177372304,7.328959838785211,0.3937812787702034,consciente/natural/sustentável + curiosa por inovação e novidade
+granular_k10,10,granular_k10_p01,comparacao_concorrencia,14.087745534529368,7.2505030814373255,1.9430024891095752,comparadora de marcas + guiada por marca e confiança
+granular_k10,10,granular_k10_p01,marca_confianca_tradicao,16.83064296587339,9.423001509392854,1.7861233439362814,comparadora de marcas + guiada por marca e confiança
+granular_k10,10,granular_k10_p01,preco_valor_promocao,4.38870484296887,2.813144434161926,1.5600709262111974,comparadora de marcas + guiada por marca e confiança
+granular_k10,10,granular_k10_p01,sensorial_perfume_prazer,6.027223296244377,3.8699544260650725,1.5574403811191109,comparadora de marcas + guiada por marca e confiança
+granular_k10,10,granular_k10_p01,canal_loja_consultora_venda,10.740242106984908,7.328959838785211,1.4654524438989316,comparadora de marcas + guiada por marca e confiança
+granular_k10,10,granular_k10_p01,status_presente_estetica,6.524366601394351,5.396319311395639,1.209040129930148,comparadora de marcas + guiada por marca e confiança
+granular_k10,10,granular_k10_p01,familia_social_influencia,3.118036325665716,2.7583215737943223,1.1304107379244304,comparadora de marcas + guiada por marca e confiança
+granular_k10,10,granular_k10_p01,negativo_rejeicao,1.0002090523924858,0.974057503881747,1.0268480540486793,comparadora de marcas + guiada por marca e confiança
+granular_k10,10,granular_k10_p01,positivo_encantamento,0.8429996353094971,0.8699011404539279,0.9690752156844016,comparadora de marcas + guiada por marca e confiança
+granular_k10,10,granular_k10_p01,eficacia_resultado_funcional,2.4471502055501553,3.0577023904228717,0.8003232143242434,comparadora de marcas + guiada por marca e confiança
+granular_k10,10,granular_k10_p01,praticidade_rotina_conveniencia,3.3279513535337375,4.213859423694209,0.7897632595005238,comparadora de marcas + guiada por marca e confiança
+granular_k10,10,granular_k10_p01,duvida_ceticismo,2.9778069134381537,3.883899669855128,0.7667054163500645,comparadora de marcas + guiada por marca e confiança
+granular_k10,10,granular_k10_p01,inovacao_tecnologia_novidade,1.7438258161617604,2.655917638447784,0.6565812850962187,comparadora de marcas + guiada por marca e confiança
+granular_k10,10,granular_k10_p01,diversidade_identidade_representatividade,1.3451692621397553,2.066859540686625,0.6508276134201557,comparadora de marcas + guiada por marca e confiança
+granular_k10,10,granular_k10_p01,pele_corpo_cuidado_pessoal,2.8004107066382433,6.725669619231966,0.41637648965546936,comparadora de marcas + guiada por marca e confiança
+granular_k10,10,granular_k10_p01,natural_sustentavel_consciente,0.5538067443073255,2.5253014822463995,0.21930321912086426,comparadora de marcas + guiada por marca e confiança
+granular_k10,10,granular_k10_p02,natural_sustentavel_consciente,5.748578266114123,2.5253014822463995,2.276392861022057,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p02,pele_corpo_cuidado_pessoal,9.230087663285849,6.725669619231966,1.3723670929200167,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p02,inovacao_tecnologia_novidade,3.592075494242136,2.655917638447784,1.352480002482862,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p02,diversidade_identidade_representatividade,2.762181732162258,2.066859540686625,1.336414825385107,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p02,duvida_ceticismo,4.47839732249738,3.883899669855128,1.1530672013122387,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p02,sensorial_perfume_prazer,4.15555035217833,3.8699544260650725,1.0737982659924108,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p02,eficacia_resultado_funcional,3.1959353473175276,3.0577023904228717,1.0452081135586053,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p02,comparacao_concorrencia,7.067131122100565,7.2505030814373255,0.9747090709048551,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p02,marca_confianca_tradicao,9.182878336666157,9.423001509392854,0.9745173369135787,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p02,negativo_rejeicao,0.8000833541261843,0.974057503881747,0.8213923212312898,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p02,positivo_encantamento,0.6204613470425354,0.8699011404539279,0.7132550104702347,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p02,familia_social_influencia,1.5379851610809945,2.7583215737943223,0.5575800790207923,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p02,praticidade_rotina_conveniencia,1.3709663739323321,4.213859423694209,0.3253469648805779,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p02,status_presente_estetica,1.0226174078463612,5.396319311395639,0.18950276083308418,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p02,canal_loja_consultora_venda,1.1350299443437186,7.328959838785211,0.15486917233972072,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p02,preco_valor_promocao,0.4032619556711772,2.813144434161926,0.14334918277714184,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p03,familia_social_influencia,7.23209688005015,2.7583215737943223,2.621919412427951,social/familiar e influenciada por indicação + entusiasmada/encantada
+granular_k10,10,granular_k10_p03,positivo_encantamento,1.264433819086069,0.8699011404539279,1.4535373737138315,social/familiar e influenciada por indicação + entusiasmada/encantada
+granular_k10,10,granular_k10_p03,negativo_rejeicao,1.337481788491218,0.974057503881747,1.373103521261504,social/familiar e influenciada por indicação + entusiasmada/encantada
+granular_k10,10,granular_k10_p03,status_presente_estetica,7.286686032109268,5.396319311395639,1.3503066834317348,social/familiar e influenciada por indicação + entusiasmada/encantada
+granular_k10,10,granular_k10_p03,praticidade_rotina_conveniencia,4.519359300060518,4.213859423694209,1.0724988296117586,social/familiar e influenciada por indicação + entusiasmada/encantada
+granular_k10,10,granular_k10_p03,canal_loja_consultora_venda,7.094171656352449,7.328959838785211,0.9679643240517909,social/familiar e influenciada por indicação + entusiasmada/encantada
+granular_k10,10,granular_k10_p03,preco_valor_promocao,2.076093266111081,2.813144434161926,0.7379973956899151,social/familiar e influenciada por indicação + entusiasmada/encantada
+granular_k10,10,granular_k10_p03,sensorial_perfume_prazer,2.772300388474588,3.8699544260650725,0.7163651255948853,social/familiar e influenciada por indicação + entusiasmada/encantada
+granular_k10,10,granular_k10_p03,duvida_ceticismo,2.6881040891077985,3.883899669855128,0.6921147088251295,social/familiar e influenciada por indicação + entusiasmada/encantada
+granular_k10,10,granular_k10_p03,diversidade_identidade_representatividade,1.243108718655081,2.066859540686625,0.6014480878764079,social/familiar e influenciada por indicação + entusiasmada/encantada
+granular_k10,10,granular_k10_p03,eficacia_resultado_funcional,1.4880392731168104,3.0577023904228717,0.48665274873628844,social/familiar e influenciada por indicação + entusiasmada/encantada
+granular_k10,10,granular_k10_p03,inovacao_tecnologia_novidade,1.2873107671446318,2.655917638447784,0.4846952889310918,social/familiar e influenciada por indicação + entusiasmada/encantada
+granular_k10,10,granular_k10_p03,pele_corpo_cuidado_pessoal,3.2555485597907357,6.725669619231966,0.48404824264360774,social/familiar e influenciada por indicação + entusiasmada/encantada
+granular_k10,10,granular_k10_p03,marca_confianca_tradicao,4.049770931001605,9.423001509392854,0.4297750485304275,social/familiar e influenciada por indicação + entusiasmada/encantada
+granular_k10,10,granular_k10_p03,comparacao_concorrencia,3.0777942222760606,7.2505030814373255,0.4244938851423707,social/familiar e influenciada por indicação + entusiasmada/encantada
+granular_k10,10,granular_k10_p03,natural_sustentavel_consciente,0.22241141103660406,2.5253014822463995,0.08807321129782747,social/familiar e influenciada por indicação + entusiasmada/encantada
+granular_k10,10,granular_k10_p04,inovacao_tecnologia_novidade,7.597374080795371,2.655917638447784,2.860545813173467,curiosa por inovação e novidade + orientada a eficácia e resultado
+granular_k10,10,granular_k10_p04,eficacia_resultado_funcional,7.671512818053403,3.0577023904228717,2.5089141579251124,curiosa por inovação e novidade + orientada a eficácia e resultado
+granular_k10,10,granular_k10_p04,pele_corpo_cuidado_pessoal,14.662393520906459,6.725669619231966,2.1800644918655436,curiosa por inovação e novidade + orientada a eficácia e resultado
+granular_k10,10,granular_k10_p04,praticidade_rotina_conveniencia,6.149755786167252,4.213859423694209,1.4594117097470425,curiosa por inovação e novidade + orientada a eficácia e resultado
+granular_k10,10,granular_k10_p04,duvida_ceticismo,5.424100016633643,3.883899669855128,1.3965602815986145,curiosa por inovação e novidade + orientada a eficácia e resultado
+granular_k10,10,granular_k10_p04,natural_sustentavel_consciente,3.110252414079024,2.5253014822463995,1.2316360782841174,curiosa por inovação e novidade + orientada a eficácia e resultado
+granular_k10,10,granular_k10_p04,diversidade_identidade_representatividade,2.1779757043015993,2.066859540686625,1.0537608683258954,curiosa por inovação e novidade + orientada a eficácia e resultado
+granular_k10,10,granular_k10_p04,positivo_encantamento,0.8670626497209717,0.8699011404539279,0.9967369961930674,curiosa por inovação e novidade + orientada a eficácia e resultado
+granular_k10,10,granular_k10_p04,sensorial_perfume_prazer,2.9882643024604936,3.8699544260650725,0.7721704117066123,curiosa por inovação e novidade + orientada a eficácia e resultado
+granular_k10,10,granular_k10_p04,status_presente_estetica,3.931211220539285,5.396319311395639,0.728498629100316,curiosa por inovação e novidade + orientada a eficácia e resultado
+granular_k10,10,granular_k10_p04,marca_confianca_tradicao,5.007224353703931,9.423001509392854,0.5313831637098568,curiosa por inovação e novidade + orientada a eficácia e resultado
+granular_k10,10,granular_k10_p04,negativo_rejeicao,0.48126089623099294,0.974057503881747,0.4940785264864806,curiosa por inovação e novidade + orientada a eficácia e resultado
+granular_k10,10,granular_k10_p04,preco_valor_promocao,1.0414433409576047,2.813144434161926,0.3702061395464271,curiosa por inovação e novidade + orientada a eficácia e resultado
+granular_k10,10,granular_k10_p04,comparacao_concorrencia,2.582166072078203,7.2505030814373255,0.3561361250489007,curiosa por inovação e novidade + orientada a eficácia e resultado
+granular_k10,10,granular_k10_p04,familia_social_influencia,0.6801508281751355,2.7583215737943223,0.24658141191258065,curiosa por inovação e novidade + orientada a eficácia e resultado
+granular_k10,10,granular_k10_p04,canal_loja_consultora_venda,1.37950625905304,7.328959838785211,0.18822674559527888,curiosa por inovação e novidade + orientada a eficácia e resultado
+granular_k10,10,granular_k10_p05,canal_loja_consultora_venda,19.070142096329633,7.328959838785211,2.6020257329572902,"canal, loja e consultora + sensível a preço e valor"
+granular_k10,10,granular_k10_p05,preco_valor_promocao,6.505341132035187,2.813144434161926,2.3124803167005594,"canal, loja e consultora + sensível a preço e valor"
+granular_k10,10,granular_k10_p05,praticidade_rotina_conveniencia,6.627736460204654,4.213859423694209,1.5728423266655265,"canal, loja e consultora + sensível a preço e valor"
+granular_k10,10,granular_k10_p05,duvida_ceticismo,3.923977816789259,3.883899669855128,1.0103190479520359,"canal, loja e consultora + sensível a preço e valor"
+granular_k10,10,granular_k10_p05,positivo_encantamento,0.7220107121804201,0.8699011404539279,0.8299916836569081,"canal, loja e consultora + sensível a preço e valor"
+granular_k10,10,granular_k10_p05,negativo_rejeicao,0.7713539621310106,0.974057503881747,0.7918977668741977,"canal, loja e consultora + sensível a preço e valor"
+granular_k10,10,granular_k10_p05,inovacao_tecnologia_novidade,1.808741891358293,2.655917638447784,0.6810233364071442,"canal, loja e consultora + sensível a preço e valor"
+granular_k10,10,granular_k10_p05,diversidade_identidade_representatividade,1.2580413077256634,2.066859540686625,0.6086728599408034,"canal, loja e consultora + sensível a preço e valor"
+granular_k10,10,granular_k10_p05,familia_social_influencia,1.623754347450419,2.7583215737943223,0.5886747806626467,"canal, loja e consultora + sensível a preço e valor"
+granular_k10,10,granular_k10_p05,eficacia_resultado_funcional,1.746115614107186,3.0577023904228717,0.5710547957761524,"canal, loja e consultora + sensível a preço e valor"
+granular_k10,10,granular_k10_p05,comparacao_concorrencia,4.040679544650103,7.2505030814373255,0.5572964385043867,"canal, loja e consultora + sensível a preço e valor"
+granular_k10,10,granular_k10_p05,sensorial_perfume_prazer,2.1349966318567244,3.8699544260650725,0.5516852130032874,"canal, loja e consultora + sensível a preço e valor"
+granular_k10,10,granular_k10_p05,marca_confianca_tradicao,5.012769311203417,9.423001509392854,0.5319716128885987,"canal, loja e consultora + sensível a preço e valor"
+granular_k10,10,granular_k10_p05,pele_corpo_cuidado_pessoal,3.5529679714848945,6.725669619231966,0.5282697742579011,"canal, loja e consultora + sensível a preço e valor"
+granular_k10,10,granular_k10_p05,status_presente_estetica,1.314219217838375,5.396319311395639,0.2435399282364707,"canal, loja e consultora + sensível a preço e valor"
+granular_k10,10,granular_k10_p05,natural_sustentavel_consciente,0.13408335536944332,2.5253014822463995,0.05309597935616327,"canal, loja e consultora + sensível a preço e valor"
+granular_k10,10,granular_k10_p06,status_presente_estetica,13.781280281399592,5.396319311395639,2.55382965427881,"estética, presente e status + crítica/rejeição explícita"
+granular_k10,10,granular_k10_p06,negativo_rejeicao,1.732486804353846,0.974057503881747,1.778628877093661,"estética, presente e status + crítica/rejeição explícita"
+granular_k10,10,granular_k10_p06,canal_loja_consultora_venda,10.212056819807291,7.328959838785211,1.3933841969994964,"estética, presente e status + crítica/rejeição explícita"
+granular_k10,10,granular_k10_p06,preco_valor_promocao,3.250374531403385,2.813144434161926,1.1554239775007202,"estética, presente e status + crítica/rejeição explícita"
+granular_k10,10,granular_k10_p06,marca_confianca_tradicao,10.761081680241936,9.423001509392854,1.142001481111436,"estética, presente e status + crítica/rejeição explícita"
+granular_k10,10,granular_k10_p06,comparacao_concorrencia,7.745477705027337,7.2505030814373255,1.0682676247469285,"estética, presente e status + crítica/rejeição explícita"
+granular_k10,10,granular_k10_p06,diversidade_identidade_representatividade,2.1224892946777745,2.066859540686625,1.0269151110155599,"estética, presente e status + crítica/rejeição explícita"
+granular_k10,10,granular_k10_p06,familia_social_influencia,2.461215312577837,2.7583215737943223,0.8922873010749837,"estética, presente e status + crítica/rejeição explícita"
+granular_k10,10,granular_k10_p06,duvida_ceticismo,3.0420397744665033,3.883899669855128,0.7832436553594015,"estética, presente e status + crítica/rejeição explícita"
+granular_k10,10,granular_k10_p06,praticidade_rotina_conveniencia,3.300436082890718,4.213859423694209,0.7832335517251997,"estética, presente e status + crítica/rejeição explícita"
+granular_k10,10,granular_k10_p06,inovacao_tecnologia_novidade,1.7918822233955527,2.655917638447784,0.6746753730069711,"estética, presente e status + crítica/rejeição explícita"
+granular_k10,10,granular_k10_p06,positivo_encantamento,0.5278146508215169,0.8699011404539279,0.6067524529811458,"estética, presente e status + crítica/rejeição explícita"
+granular_k10,10,granular_k10_p06,eficacia_resultado_funcional,1.32757609688574,3.0577023904228717,0.43417439873935537,"estética, presente e status + crítica/rejeição explícita"
+granular_k10,10,granular_k10_p06,sensorial_perfume_prazer,1.4665310936286953,3.8699544260650725,0.37895306563593,"estética, presente e status + crítica/rejeição explícita"
+granular_k10,10,granular_k10_p06,pele_corpo_cuidado_pessoal,2.19617841204004,6.725669619231966,0.32653676680164245,"estética, presente e status + crítica/rejeição explícita"
+granular_k10,10,granular_k10_p06,natural_sustentavel_consciente,0.3160393690211069,2.5253014822463995,0.12514916386932617,"estética, presente e status + crítica/rejeição explícita"
+granular_k10,10,granular_k10_p07,natural_sustentavel_consciente,7.711820444537236,2.5253014822463995,3.0538216916885235,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p07,pele_corpo_cuidado_pessoal,13.764336534163458,6.725669619231966,2.046537714966628,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p07,eficacia_resultado_funcional,4.970282143572892,3.0577023904228717,1.625495718334287,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p07,praticidade_rotina_conveniencia,6.492426549145859,4.213859423694209,1.5407316420285502,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p07,inovacao_tecnologia_novidade,3.5887014650022238,2.655917638447784,1.3512096207545023,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p07,diversidade_identidade_representatividade,2.7560233905051486,2.066859540686625,1.3334352607190612,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p07,sensorial_perfume_prazer,4.755599830327106,3.8699544260650725,1.22885163667484,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p07,marca_confianca_tradicao,10.107948507306237,9.423001509392854,1.0726888345746974,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p07,comparacao_concorrencia,7.3863143860693565,7.2505030814373255,1.018731293967688,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p07,duvida_ceticismo,2.7815811549882796,3.883899669855128,0.7161825462633629,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p07,positivo_encantamento,0.6194920623740748,0.8699011404539279,0.7121407635479294,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p07,familia_social_influencia,1.9030233899916662,2.7583215737943223,0.6899207866376089,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p07,negativo_rejeicao,0.5129212638194435,0.974057503881747,0.5265821183814968,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p07,status_presente_estetica,2.5226457304309333,5.396319311395639,0.4674752520859457,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p07,preco_valor_promocao,0.7603414269321096,2.813144434161926,0.27028168824137383,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p07,canal_loja_consultora_venda,0.8530530172136824,7.328959838785211,0.11639482763969922,consciente/natural/sustentável + cuidado pessoal e pele/corpo
+granular_k10,10,granular_k10_p08,pele_corpo_cuidado_pessoal,26.114036317366654,6.725669619231966,3.882741466023532,cuidado pessoal e pele/corpo + identidade e representatividade
+granular_k10,10,granular_k10_p08,diversidade_identidade_representatividade,7.360159570666294,2.066859540686625,3.561035196528739,cuidado pessoal e pele/corpo + identidade e representatividade
+granular_k10,10,granular_k10_p08,eficacia_resultado_funcional,8.443626198188046,3.0577023904228717,2.7614283929772236,cuidado pessoal e pele/corpo + identidade e representatividade
+granular_k10,10,granular_k10_p08,positivo_encantamento,1.8599989256984923,0.8699011404539279,2.1381727637785555,cuidado pessoal e pele/corpo + identidade e representatividade
+granular_k10,10,granular_k10_p08,sensorial_perfume_prazer,6.044688171611416,3.8699544260650725,1.5619533219561939,cuidado pessoal e pele/corpo + identidade e representatividade
+granular_k10,10,granular_k10_p08,praticidade_rotina_conveniencia,4.444208015951352,4.213859423694209,1.0546645175114078,cuidado pessoal e pele/corpo + identidade e representatividade
+granular_k10,10,granular_k10_p08,familia_social_influencia,2.7511352042289476,2.7583215737943223,0.9973946585366806,cuidado pessoal e pele/corpo + identidade e representatividade
+granular_k10,10,granular_k10_p08,negativo_rejeicao,0.8828253098419545,0.974057503881747,0.9063379793531487,cuidado pessoal e pele/corpo + identidade e representatividade
+granular_k10,10,granular_k10_p08,preco_valor_promocao,2.376904058260804,2.813144434161926,0.8449278428069464,cuidado pessoal e pele/corpo + identidade e representatividade
+granular_k10,10,granular_k10_p08,marca_confianca_tradicao,6.907806900722445,9.423001509392854,0.7330792522782404,cuidado pessoal e pele/corpo + identidade e representatividade
+granular_k10,10,granular_k10_p08,duvida_ceticismo,2.7515672992841242,3.883899669855128,0.7084547833818683,cuidado pessoal e pele/corpo + identidade e representatividade
+granular_k10,10,granular_k10_p08,inovacao_tecnologia_novidade,1.6185503583130876,2.655917638447784,0.6094128578697297,cuidado pessoal e pele/corpo + identidade e representatividade
+granular_k10,10,granular_k10_p08,comparacao_concorrencia,4.290753211626923,7.2505030814373255,0.5917869647710476,cuidado pessoal e pele/corpo + identidade e representatividade
+granular_k10,10,granular_k10_p08,natural_sustentavel_consciente,0.8320545805315971,2.5253014822463995,0.32948722613168435,cuidado pessoal e pele/corpo + identidade e representatividade
+granular_k10,10,granular_k10_p08,status_presente_estetica,1.7421654498741694,5.396319311395639,0.32284328434664045,cuidado pessoal e pele/corpo + identidade e representatividade
+granular_k10,10,granular_k10_p08,canal_loja_consultora_venda,2.1902976500650935,7.328959838785211,0.2988551852165886,cuidado pessoal e pele/corpo + identidade e representatividade
+granular_k10,10,granular_k10_p09,duvida_ceticismo,8.455299311598804,3.883899669855128,2.177012804224727,cética ou indecisa + consciente/natural/sustentável
+granular_k10,10,granular_k10_p09,natural_sustentavel_consciente,5.438538724920731,2.5253014822463995,2.153619582911281,cética ou indecisa + consciente/natural/sustentável
+granular_k10,10,granular_k10_p09,sensorial_perfume_prazer,6.758626248469003,3.8699544260650725,1.7464356176775706,cética ou indecisa + consciente/natural/sustentável
+granular_k10,10,granular_k10_p09,marca_confianca_tradicao,11.526489567500764,9.423001509392854,1.2232290906470886,cética ou indecisa + consciente/natural/sustentável
+granular_k10,10,granular_k10_p09,comparacao_concorrencia,8.42802537439019,7.2505030814373255,1.162405598580814,cética ou indecisa + consciente/natural/sustentável
+granular_k10,10,granular_k10_p09,pele_corpo_cuidado_pessoal,7.368524070430701,6.725669619231966,1.0955822226772038,cética ou indecisa + consciente/natural/sustentável
+granular_k10,10,granular_k10_p09,diversidade_identidade_representatividade,1.789906230865728,2.066859540686625,0.8660028393952252,cética ou indecisa + consciente/natural/sustentável
+granular_k10,10,granular_k10_p09,familia_social_influencia,2.0351737351149355,2.7583215737943223,0.7378304815690394,cética ou indecisa + consciente/natural/sustentável
+granular_k10,10,granular_k10_p09,positivo_encantamento,0.5278960744965149,0.8699011404539279,0.6068460540482227,cética ou indecisa + consciente/natural/sustentável
+granular_k10,10,granular_k10_p09,inovacao_tecnologia_novidade,1.497792807368366,2.655917638447784,0.5639455025584796,cética ou indecisa + consciente/natural/sustentável
+granular_k10,10,granular_k10_p09,negativo_rejeicao,0.4864685956946976,0.974057503881747,0.4994249248694829,cética ou indecisa + consciente/natural/sustentável
+granular_k10,10,granular_k10_p09,eficacia_resultado_funcional,1.3654249248169772,3.0577023904228717,0.4465525909564216,cética ou indecisa + consciente/natural/sustentável
+granular_k10,10,granular_k10_p09,praticidade_rotina_conveniencia,1.3905471134145224,4.213859423694209,0.3299937120815143,cética ou indecisa + consciente/natural/sustentável
+granular_k10,10,granular_k10_p09,status_presente_estetica,1.713209045938664,5.396319311395639,0.3174773298386563,cética ou indecisa + consciente/natural/sustentável
+granular_k10,10,granular_k10_p09,canal_loja_consultora_venda,0.9154539218572246,7.328959838785211,0.12490911971063043,cética ou indecisa + consciente/natural/sustentável
+granular_k10,10,granular_k10_p09,preco_valor_promocao,0.3110415293004257,2.813144434161926,0.11056720924927882,cética ou indecisa + consciente/natural/sustentável

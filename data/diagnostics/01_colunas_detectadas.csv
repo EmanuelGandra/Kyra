@@ -1,0 +1,3 @@
+﻿base,doc_id,chunk_id,chunk_index,language,text,tokens,date
+tokens_chunks,doc_id,chunk_id,chunk_index,idioma,texto_analise,n_palavras,timestamp_inicial
+entrevistas_completas,doc_id,,,idioma,texto_analise,n_palavras_total,data_bruta_nome_arquivo

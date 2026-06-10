@@ -1,0 +1,7 @@
+﻿base,role,coluna,n_linhas,missing,n_unique,duplicated_rows_by_col
+tokens,doc_id,doc_id,12041,0,155,12041.0
+tokens,chunk_id,chunk_id,12041,0,12041,0.0
+tokens,chunk_index,chunk_index,12041,0,156,12025.0
+tokens,text,texto_analise,12041,0,12034,
+tokens,tokens,n_palavras,12041,0,160,
+tokens,language,idioma,12041,0,2,

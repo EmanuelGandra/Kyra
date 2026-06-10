@@ -1,0 +1,5 @@
+{
+  "method": "tfidf_svd_fallback",
+  "n_components": 256,
+  "explained_variance_ratio_sum": 0.18187099940043702
+}

@@ -1,0 +1,38 @@
+{
+  "run_id": "20260520_112329",
+  "input_path": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/data/processed/interviews_chunks_modeling.parquet",
+  "output_dir": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao",
+  "n_chunks": 4976,
+  "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "selected_clustering": {
+    "method": "kmeans",
+    "k": 18.0,
+    "silhouette": 0.22727949917316437,
+    "stability_ari_mean": 0.983439508347377,
+    "inertia_mean": 294.06386108398436,
+    "inertia_std": 0.015900280257520147,
+    "calinski_harabasz": 510.38461967476456,
+    "davies_bouldin": 1.464600384621516,
+    "score": 0.46076703799736896,
+    "n_clusters": 18.0,
+    "noise_share": 0.0,
+    "largest_cluster_share": 0.08440514469453377
+  },
+  "files": {
+    "chunks_with_clusters_topics_parquet": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao/chunks_with_clusters_topics.parquet",
+    "chunks_with_clusters_topics_csv": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao/chunks_with_clusters_topics.csv",
+    "cluster_tfidf_labels": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao/tables/cluster_tfidf_labels.csv",
+    "cluster_representative_examples": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao/tables/cluster_representative_examples.csv",
+    "hdbscan_grid_search": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao/tables/hdbscan_grid_search.csv",
+    "kmeans_grid_stability": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao/tables/kmeans_grid_stability.csv",
+    "nmf_grid_search": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao/tables/nmf_grid_search.csv",
+    "nmf_topics": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao/tables/nmf_topics.csv",
+    "lda_grid_search": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao/tables/lda_grid_search.csv",
+    "lda_topics": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao/tables/lda_topics.csv",
+    "insights_clusters_by_segment": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao/tables/insights_clusters_by_segment.csv",
+    "insights_topics_by_segment": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao/tables/insights_topics_by_segment.csv",
+    "report_markdown": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao/relatorio_clusterizacao_topicos.md",
+    "clusters_map_2d_png": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao/figures/clusters_map_2d.png",
+    "cluster_sizes_png": "/Users/emanuelgandra/Desktop/Faculdade/6Período/ProjetoCienciaDados/Kyra/kyrav2/outputs/clusterizacao/figures/cluster_sizes.png"
+  }
+}
