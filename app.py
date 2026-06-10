@@ -123,6 +123,17 @@ html, body, [class*="css"], p, span, div, label, h1, h2, h3 {{
     font-family: 'Inter', sans-serif !important;
 }}
 
+/* Restaura a fonte de ÍCONES do Streamlit. A regra Inter acima atinge todo
+   <span> com !important e sobrescrevia os ícones (Material Symbols), fazendo
+   a ligadura aparecer como texto cru ("keyboard_double_arrow", "arrow_right",
+   "add"). Aqui devolvemos a fonte correta para os spans de ícone. */
+span[data-testid="stIconMaterial"],
+[data-testid="stIconMaterial"],
+.material-symbols-rounded,
+[data-testid="stExpanderToggleIcon"] {{
+    font-family: 'Material Symbols Rounded' !important;
+}}
+
 /* fundo branco em tudo — inclusive a faixa acima da navbar */
 html, body,
 [data-testid="stApp"],
@@ -1247,15 +1258,109 @@ st.markdown(f"""
 [data-testid="stMainBlockContainer"] {{ padding: 0 36px 52px 36px !important; max-width: 1440px !important; }}
 [data-testid="stSidebar"] {{ background: {BK} !important; }}
 [data-testid="stSidebar"] * {{ color: {WH}; }}
+
+/* Trava o tamanho SÓ quando a barra está aberta (aria-expanded="true"):
+   o usuário não consegue redimensionar arrastando. Não afeta o estado
+   fechado, então o recolher/expandir continua funcionando. */
+[data-testid="stSidebar"][aria-expanded="true"] {{
+    width: 320px !important;
+    min-width: 320px !important;
+    max-width: 320px !important;
+}}
+/* Desabilita o handle de resize (div com cursor col-resize na borda). */
+[data-testid="stSidebar"] > div:not([data-testid="stSidebarContent"]) {{
+    pointer-events: none !important;
+    cursor: default !important;
+}}
 [data-testid="stSidebar"] [data-testid="stFileUploader"] section {{ background: #242424 !important; border: 2px dashed {Y} !important; }}
 [data-testid="stSidebar"] .stButton > button {{ background:{Y} !important; color:{BK} !important; border:0 !important; border-radius:0 !important; font-weight:900 !important; text-transform:uppercase; width:100%; }}
 [data-testid="stSidebar"] .stDownloadButton > button {{ background:{Y} !important; color:{BK} !important; border-radius:0 !important; }}
 [data-testid="stSidebar"] textarea {{ color:{BK} !important; }}
 [data-testid="stSidebar"] [data-baseweb="select"] * {{ color:{BK} !important; }}
 
+/* Botão de RECOLHER a sidebar (seta dentro da barra preta) */
+[data-testid="stSidebarCollapseButton"] button {{ color:{Y} !important; }}
+
+/* Aba de REABRIR a sidebar quando está fechada: aba BRANCA fixa, colada à
+   esquerda, com o símbolo "y." da kyra — deixa claro que a barra existe e
+   pode ser reaberta (o controle nativo some/fica invisível). */
+[data-testid="stExpandSidebarButton"],
+[data-testid="collapsedControl"] button {{
+    background: {WH} !important;
+    color: {BK} !important;
+    border: 2px solid {BK} !important;
+    border-left: 0 !important;
+    border-radius: 0 10px 10px 0 !important;
+    box-shadow: 2px 2px 10px rgba(0,0,0,.22) !important;
+    width: 46px !important;
+    height: 46px !important;
+    min-width: 46px !important;
+    padding: 0 !important;
+    opacity: 1 !important;
+    z-index: 1001 !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    position: fixed !important;
+    top: 132px !important;
+    left: 0 !important;
+}}
+[data-testid="stExpandSidebarButton"]:hover,
+[data-testid="collapsedControl"] button:hover {{
+    background: {Y} !important;
+}}
+/* esconde a seta nativa e mostra o "y." da kyra no lugar */
+[data-testid="stExpandSidebarButton"] [data-testid="stIconMaterial"],
+[data-testid="collapsedControl"] [data-testid="stIconMaterial"] {{
+    display: none !important;
+}}
+[data-testid="stExpandSidebarButton"]::after,
+[data-testid="collapsedControl"] button::after {{
+    content: "y." !important;
+    font-family: 'Inter', sans-serif !important;
+    font-weight: 900 !important;
+    font-size: 1.35rem !important;
+    letter-spacing: -1px !important;
+    color: {BK} !important;
+}}
+
+/* header nativo fora do fluxo (não reserva espaço) — navbar cola no topo.
+   NÃO usar display:none: o botão de reabrir a sidebar vive dentro do header. */
+[data-testid="stHeader"] {{
+    background: transparent !important;
+    height: 0 !important;
+    min-height: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    width: 100% !important;
+    overflow: visible !important;
+    z-index: 1000 !important;
+}}
+[data-testid="stDecoration"] {{ display: none !important; height: 0 !important; }}
+[data-testid="stAppViewContainer"],
+[data-testid="stAppViewContainer"] > section,
+[data-testid="stMain"],
+[data-testid="stMainBlockContainer"],
+section.main,
+.block-container {{
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+    top: 0 !important;
+}}
+/* Os blocos de CSS injetados via st.markdown("<style>…") criam containers
+   vazios que, somados ao gap do bloco vertical, empurram a navbar para baixo.
+   Removemos esses containers do layout (o CSS continua valendo) para a
+   navbar colar de fato no topo. */
+[data-testid="stMain"] [data-testid="stElementContainer"]:has(style) {{
+    display: none !important;
+}}
+
 .ux-hero {{
     background: {Y}; color:{BK}; padding: 26px 32px; margin: 0 -36px 24px -36px;
-    display:flex; align-items:center; justify-content:space-between; gap:24px; border-bottom: 6px solid {BK};
+    display:flex; align-items:center; justify-content:space-between; gap:24px;
+    border-bottom: 6px solid {BK}; position:relative;
 }}
 .ux-brand {{ display:flex; align-items:center; gap:14px; min-width:0; }}
 .ux-logo {{ width:44px; height:44px; background:{BK}; color:{Y}; border-radius:50%; display:flex; align-items:center; justify-content:center; font-weight:900; font-size:1.15rem; flex-shrink:0; }}
@@ -1304,12 +1409,33 @@ st.markdown(f"""
 .pill-v2 {{ display:inline-block; background:{Y}; color:{BK} !important; padding:4px 9px; margin:3px 4px 3px 0; font-size:.72rem; font-weight:850; }}
 .small-muted {{ color:{G3}; font-size:.82rem; line-height:1.55; }}
 
+/* ── INTRODUÇÃO (estado inicial, antes do upload) ── */
+.intro-grid {{ display:grid; grid-template-columns:repeat(3, 1fr); gap:16px; margin-bottom:8px; }}
+.intro-card {{ background:{G1}; border-left:4px solid {Y}; padding:22px 24px; }}
+.intro-card-label {{ font-size:.68rem; color:{G3}; font-weight:900; text-transform:uppercase; letter-spacing:2px; margin-bottom:12px; }}
+.intro-card-text {{ font-size:.96rem; line-height:1.65; color:{G4}; }}
+
+.intro-send {{ display:grid; grid-template-columns:2fr 1fr; gap:16px; align-items:stretch; }}
+.intro-send-main {{ background:{BK}; color:{WH}; padding:24px 28px; border-left:4px solid {Y}; }}
+.intro-send-main * {{ color:{WH}; }}
+.intro-send-label {{ font-size:.68rem; color:{Y} !important; font-weight:900; text-transform:uppercase; letter-spacing:2px; margin-bottom:10px; }}
+.intro-send-text {{ font-size:1rem; line-height:1.7; font-weight:600; }}
+.intro-send-text b {{ color:{Y} !important; }}
+.spec-card {{ background:{G1}; border-top:4px solid {BK}; padding:22px 24px; }}
+.spec-row {{ margin-bottom:14px; }}
+.spec-row:last-child {{ margin-bottom:0; }}
+.spec-label {{ font-size:.66rem; color:{G3}; font-weight:900; text-transform:uppercase; letter-spacing:1.6px; margin-bottom:4px; }}
+.spec-val {{ font-size:1.05rem; font-weight:800; color:{BK}; }}
+
 @media (max-width: 900px) {{
     [data-testid="stMainBlockContainer"] {{ padding:0 18px 42px 18px !important; }}
     .ux-hero {{ margin:0 -18px 18px -18px; padding:20px 18px; align-items:flex-start; flex-direction:column; }}
+    .ux-hero-right {{ margin-top:10px; }}
     .ux-title {{ font-size:1.35rem; }}
     .signal-list {{ grid-template-columns:1fr; }}
     .persona-card-v2 {{ min-height:auto; }}
+    .intro-grid {{ grid-template-columns:1fr; }}
+    .intro-send {{ grid-template-columns:1fr; }}
 }}
 </style>
 """, unsafe_allow_html=True)
@@ -1425,9 +1551,33 @@ if should_process:
 
 if st.session_state.analysis_result is None:
     st.markdown("""
-    <div class="ux-card-dark">
-        <div class="ux-card-label">Comece pela barra lateral</div>
-        <div class="ux-card-text">Envie uma transcrição em PDF/TXT ou cole um texto. O app vai gerar uma leitura em camadas: visão geral, temas, sentimento, personas, tensões, JTBD e oportunidades.</div>
+    <div class="ux-section-head"><div class="ux-section-title">Sobre o produto</div></div>
+    <div class="intro-grid">
+        <div class="intro-card">
+            <div class="intro-card-label">O que é</div>
+            <div class="intro-card-text">Ferramenta de análise automática de entrevistas qualitativas com NLP — identifica temas, sentimentos e trechos representativos em minutos.</div>
+        </div>
+        <div class="intro-card">
+            <div class="intro-card-label">Como usar</div>
+            <div class="intro-card-text">Faça upload de uma transcrição em PDF ou TXT na barra lateral. O sistema processa automaticamente e entrega um relatório estruturado com evidências citáveis.</div>
+        </div>
+        <div class="intro-card">
+            <div class="intro-card-label">O que você recebe</div>
+            <div class="intro-card-text">Temas identificados · Sentimento por tema · Trechos representativos citáveis · Síntese narrativa · Exportação em CSV, JSON e TXT.</div>
+        </div>
+    </div>
+
+    <div class="ux-section-head"><div class="ux-section-title">Enviar transcrição</div></div>
+    <div class="intro-send">
+        <div class="intro-send-main">
+            <div class="intro-send-label">Comece agora</div>
+            <div class="intro-send-text">Abra a <b>barra lateral à esquerda</b>, envie uma transcrição em PDF/TXT (ou cole o texto) e clique em <b>Analisar</b>. Você também pode usar o modo <b>Demonstração</b> para ver a interface com dados de exemplo.</div>
+        </div>
+        <div class="spec-card">
+            <div class="spec-row"><div class="spec-label">Formatos</div><div class="spec-val">PDF · TXT</div></div>
+            <div class="spec-row"><div class="spec-label">Idiomas</div><div class="spec-val">Português · Espanhol</div></div>
+            <div class="spec-row"><div class="spec-label">Tamanho máximo</div><div class="spec-val">200 MB</div></div>
+        </div>
     </div>
     """, unsafe_allow_html=True)
     st.stop()
@@ -1473,6 +1623,7 @@ with tab_resumo:
     with c3: render_metric_card("Temas", f"{len(temas)}", "detectados")
     with c4: render_metric_card("Sentimento", sent_lbl, "dominante", accent=sent_color)
 
+    st.markdown('<div style="height:22px;"></div>', unsafe_allow_html=True)
     col_a, col_b = st.columns([1.35, 1], gap="large")
     with col_a:
         st.markdown(f"""
@@ -1557,13 +1708,11 @@ with tab_temas:
 
 with tab_personas:
     st.markdown('<div class="ux-section-head"><div class="ux-section-title">Classificação por persona</div><div class="ux-section-note">Aderência relativa aos perfis comportamentais</div></div>', unsafe_allow_html=True)
-    st.markdown('<div class="persona-zone">', unsafe_allow_html=True)
     persona_df = analise_pj["personas"].copy()
     pcols = st.columns(3, gap="medium")
     for i, (_, row) in enumerate(persona_df.head(3).iterrows()):
         with pcols[i]:
             render_persona_card(row, i+1)
-    st.markdown('</div>', unsafe_allow_html=True)
 
     st.markdown('<div class="ux-section-head"><div class="ux-section-title">Síntese, tensão e intensidade</div><div class="ux-section-note">O que move, o que trava e qual job aparece</div></div>', unsafe_allow_html=True)
     col_s, col_q, col_i = st.columns([1.6, 1, 1], gap="large")
